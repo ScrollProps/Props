@@ -1,0 +1,11 @@
+{
+  "catsounds": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "scrollsprops:anime-girl-moaning-sounds-_1-minute_-made-with-voicemod",
+        "stream": true
+      }
+    ]
+  }
+}

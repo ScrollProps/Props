@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "number_c104"
+      },
+      "name": "default"
+    }
+  }
+}

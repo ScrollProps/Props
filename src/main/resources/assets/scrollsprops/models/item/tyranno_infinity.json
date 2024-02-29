@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/tyranno_infinity",
+  "textures": {
+    "1": "scrollsprops:blocks/tyranno_infinity"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/blaster_bladejk",
+  "textures": {
+    "1": "scrollsprops:blocks/blaster_bladejk"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/blankcard1",
+  "textures": {
+    "1": "scrollsprops:blocks/blanc_anime"
+  }
+}

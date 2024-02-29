@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/hamon,_lord_of_striking_thunder",
+  "textures": {
+    "1": "scrollsprops:blocks/hamon_lord_of_striking_thunder"
+  }
+}

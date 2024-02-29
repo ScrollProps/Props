@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/duel_disk",
+  "textures": {
+    "1": "scrollsprops:blocks/duel_disk"
+  }
+}

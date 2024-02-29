@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/kiwi_magician_girl",
+  "textures": {
+    "1": "scrollsprops:blocks/kiwi_magician_girl"
+  }
+}

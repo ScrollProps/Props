@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/evilswarm_ouroboros",
+  "textures": {
+    "1": "scrollsprops:blocks/evilswarm_ouroboros"
+  }
+}

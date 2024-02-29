@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/ultimate_conductor_tyranno",
+  "textures": {
+    "1": "scrollsprops:blocks/ultimate_conductor_tyranno"
+  }
+}

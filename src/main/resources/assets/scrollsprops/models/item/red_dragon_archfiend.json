@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/red_dragon_archfiend",
+  "textures": {
+    "1": "scrollsprops:blocks/ed_ragon_rchfiend"
+  }
+}

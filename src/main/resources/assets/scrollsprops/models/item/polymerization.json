@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/polymerization",
+  "textures": {
+    "1": "scrollsprops:blocks/polymerization"
+  }
+}

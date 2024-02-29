@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "haos_ragon_evianeer"
+      },
+      "name": "default"
+    }
+  }
+}

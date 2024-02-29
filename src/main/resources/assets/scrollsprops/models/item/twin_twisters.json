@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/twin_twisters",
+  "textures": {
+    "1": "scrollsprops:blocks/twin_twisters"
+  }
+}

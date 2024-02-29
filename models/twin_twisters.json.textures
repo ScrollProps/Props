@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "twin_twisters"
+      },
+      "name": "default"
+    }
+  }
+}

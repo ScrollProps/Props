@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/burial_from_a_different_dimension",
+  "textures": {
+    "1": "scrollsprops:blocks/burial_from_a_different_dimension"
+  }
+}

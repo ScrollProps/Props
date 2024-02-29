@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/millennium_key",
+  "textures": {
+    "1": "scrollsprops:blocks/millennium_item"
+  }
+}

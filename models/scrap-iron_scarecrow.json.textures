@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "scrap-iron_scarecrow"
+      },
+      "name": "default"
+    }
+  }
+}

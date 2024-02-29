@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/malefic_truth_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/alefic_ruth_ragon"
+  }
+}

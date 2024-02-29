@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/millennium_necklace",
+  "textures": {
+    "1": "scrollsprops:blocks/millennium_item"
+  }
+}

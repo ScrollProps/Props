@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/obelisk_the_tormentor",
+  "textures": {
+    "1": "scrollsprops:blocks/obelisk_the_tormentor"
+  }
+}

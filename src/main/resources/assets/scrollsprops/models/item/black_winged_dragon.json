@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/black-winged_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/lack-inged_ragon"
+  }
+}

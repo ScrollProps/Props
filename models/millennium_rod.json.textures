@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "millennium_item"
+      },
+      "name": "default"
+    }
+  }
+}

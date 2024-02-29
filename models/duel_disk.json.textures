@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "duel_disk"
+      },
+      "name": "default"
+    }
+  }
+}

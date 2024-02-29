@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/number_85",
+  "textures": {
+    "1": "scrollsprops:blocks/number_85"
+  }
+}

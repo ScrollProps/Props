@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/eye",
+  "textures": {
+    "rod": "scrollsprops:blocks/rod"
+  }
+}

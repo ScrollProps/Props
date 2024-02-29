@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/five-headed_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/five-headed_dragon"
+  }
+}

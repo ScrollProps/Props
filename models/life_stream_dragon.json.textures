@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "ife_tream_ragon"
+      },
+      "name": "default"
+    }
+  }
+}

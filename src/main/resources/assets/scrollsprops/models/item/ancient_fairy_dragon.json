@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/ancient_fairy_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/ncient_airy_ragon"
+  }
+}

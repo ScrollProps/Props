@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/wretched_ghost_of_the_attic",
+  "textures": {
+    "1": "scrollsprops:blocks/wretched_ghost_of_the_attic"
+  }
+}

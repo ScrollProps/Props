@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/locator_cards",
+  "textures": {
+    "1": "scrollsprops:blocks/locator_cards"
+  }
+}

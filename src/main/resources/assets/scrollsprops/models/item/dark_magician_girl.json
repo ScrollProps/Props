@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/dark_magician_girl",
+  "textures": {
+    "1": "scrollsprops:blocks/dmg"
+  }
+}

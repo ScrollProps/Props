@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/magi_magi__magician_gal",
+  "textures": {
+    "1": "scrollsprops:blocks/arkirl"
+  }
+}

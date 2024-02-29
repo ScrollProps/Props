@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/gigantic_champion_sargas",
+  "textures": {
+    "1": "scrollsprops:blocks/gigantic_champion_sargas"
+  }
+}

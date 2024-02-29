@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "springans_merrymaker"
+      },
+      "name": "default"
+    }
+  }
+}

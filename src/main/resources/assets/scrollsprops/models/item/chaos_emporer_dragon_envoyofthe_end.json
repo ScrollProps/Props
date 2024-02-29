@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/chaos_emporer_dragon_envoy_of_the_end",
+  "textures": {
+    "1": "scrollsprops:blocks/chaos_emporer_dragon_envoy_of_the_end"
+  }
+}

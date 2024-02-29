@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/blue-eyes_white_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/blue-eyes_white_dragon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/academia_disk_red",
+  "textures": {
+    "1": "scrollsprops:blocks/academia_disk_red"
+  }
+}

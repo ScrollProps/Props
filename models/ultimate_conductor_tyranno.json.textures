@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "ultimate_conductor_tyranno"
+      },
+      "name": "default"
+    }
+  }
+}

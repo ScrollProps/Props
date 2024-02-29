@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "pot_of_greed"
+      },
+      "name": "default"
+    }
+  }
+}

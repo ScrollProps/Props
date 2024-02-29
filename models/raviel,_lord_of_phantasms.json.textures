@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "raviel_lord_of_phantasms"
+      },
+      "name": "default"
+    }
+  }
+}

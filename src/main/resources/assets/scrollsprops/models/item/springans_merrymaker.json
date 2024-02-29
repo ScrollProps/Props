@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/springans_merrymaker",
+  "textures": {
+    "1": "scrollsprops:blocks/springans_merrymaker"
+  }
+}

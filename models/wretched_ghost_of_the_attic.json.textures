@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "wretched_ghost_of_the_attic"
+      },
+      "name": "default"
+    }
+  }
+}

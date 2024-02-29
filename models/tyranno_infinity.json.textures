@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "tyranno_infinity"
+      },
+      "name": "default"
+    }
+  }
+}

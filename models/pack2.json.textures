@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "set_duelist_pack"
+      },
+      "name": "default"
+    }
+  }
+}

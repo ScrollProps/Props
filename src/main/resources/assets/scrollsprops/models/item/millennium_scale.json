@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/millennium_scale",
+  "textures": {
+    "2": "scrollsprops:blocks/millennium_item"
+  }
+}

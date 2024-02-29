@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/slifer_the_sky_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/slifer_the_sky_dragon"
+  }
+}

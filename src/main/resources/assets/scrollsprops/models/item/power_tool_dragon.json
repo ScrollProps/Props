@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/power_tool_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/ower_ool_ragon"
+  }
+}

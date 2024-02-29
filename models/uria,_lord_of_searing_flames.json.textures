@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "uria_lord_of_searing_flames"
+      },
+      "name": "default"
+    }
+  }
+}

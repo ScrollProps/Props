@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/ducktapeblue-eyes",
+  "textures": {
+    "1": "scrollsprops:blocks/ducktapeblue-eyes"
+  }
+}

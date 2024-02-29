@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stardust_dragon"
+      },
+      "name": "default"
+    }
+  }
+}

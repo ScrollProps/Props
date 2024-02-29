@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/chocolate_magician_girl",
+  "textures": {
+    "1": "scrollsprops:blocks/chocolate_magician_girl"
+  }
+}

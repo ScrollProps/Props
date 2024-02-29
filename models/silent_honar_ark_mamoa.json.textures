@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "silent_honar_ark_mamoa"
+      },
+      "name": "default"
+    }
+  }
+}

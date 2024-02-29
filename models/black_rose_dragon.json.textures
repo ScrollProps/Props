@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lack_ose_ragon"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/judgment_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/judgment_dragon"
+  }
+}

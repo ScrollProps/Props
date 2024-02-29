@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/storming_mirror_force",
+  "textures": {
+    "1": "scrollsprops:blocks/storming_mirror_force"
+  }
+}

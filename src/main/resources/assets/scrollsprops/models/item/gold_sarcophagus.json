@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/gold_sarcophagus",
+  "textures": {
+    "1": "scrollsprops:blocks/gold_sarcophagus"
+  }
+}

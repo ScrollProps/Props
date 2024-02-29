@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/red-eyes_black_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/ed-yes_lack_ragon"
+  }
+}

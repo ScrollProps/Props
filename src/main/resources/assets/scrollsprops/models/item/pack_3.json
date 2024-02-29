@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/pack3",
+  "textures": {
+    "1": "scrollsprops:blocks/set_patrons__pack"
+  }
+}

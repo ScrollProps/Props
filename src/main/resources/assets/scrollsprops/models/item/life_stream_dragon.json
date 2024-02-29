@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/life_stream_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/ife_tream_ragon"
+  }
+}

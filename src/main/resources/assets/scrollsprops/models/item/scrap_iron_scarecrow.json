@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/scrap-iron_scarecrow",
+  "textures": {
+    "1": "scrollsprops:blocks/scrap-iron_scarecrow"
+  }
+}

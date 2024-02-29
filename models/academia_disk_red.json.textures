@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "academia_disk_red"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/silent_honar_ark_mamoa2",
+  "textures": {
+    "1": "scrollsprops:blocks/silent_honar_ark_mamoa"
+  }
+}

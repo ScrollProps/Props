@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lunalight_black_sheep"
+      },
+      "name": "default"
+    }
+  }
+}

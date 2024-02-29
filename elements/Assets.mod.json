@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Assets",
+    "icon": {
+      "value": "CUSTOM:DeckboxI"
+    },
+    "showSearch": true
+  }
+}

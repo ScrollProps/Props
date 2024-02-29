@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "hunder_ragon_itan"
+      },
+      "name": "default"
+    }
+  }
+}

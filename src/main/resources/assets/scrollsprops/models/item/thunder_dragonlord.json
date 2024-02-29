@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/thunder_dragonlord",
+  "textures": {
+    "1": "scrollsprops:blocks/hunder_dragonlord"
+  }
+}

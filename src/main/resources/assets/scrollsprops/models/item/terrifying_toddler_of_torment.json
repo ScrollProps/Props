@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/terrifying_toddler_of_torment",
+  "textures": {
+    "1": "scrollsprops:blocks/terrifying_toddler_of_torment"
+  }
+}

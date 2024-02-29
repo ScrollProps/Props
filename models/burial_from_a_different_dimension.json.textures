@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "burial_from_a_different_dimension"
+      },
+      "name": "default"
+    }
+  }
+}

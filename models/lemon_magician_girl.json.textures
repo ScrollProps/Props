@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lemon_magician_girl"
+      },
+      "name": "default"
+    }
+  }
+}

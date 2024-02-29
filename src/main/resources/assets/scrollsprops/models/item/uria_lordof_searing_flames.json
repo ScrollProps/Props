@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/uria,_lord_of_searing_flames",
+  "textures": {
+    "1": "scrollsprops:blocks/uria_lord_of_searing_flames"
+  }
+}

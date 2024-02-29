@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lack-inged_ragon"
+      },
+      "name": "default"
+    }
+  }
+}

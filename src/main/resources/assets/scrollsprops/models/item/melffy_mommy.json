@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/melffy_mommy",
+  "textures": {
+    "1": "scrollsprops:blocks/melffy_mommy"
+  }
+}

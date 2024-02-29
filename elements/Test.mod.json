@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_cat",
+    "name": "DO NOT USE ITS ONLY A TEST",
+    "description": "DO NOT USE ITS ONLY A TEST",
+    "creativeTab": {
+      "value": "CUSTOM:JokeStuff"
+    },
+    "music": {
+      "value": "CUSTOM:catsounds"
+    },
+    "specialInfo": [
+      "DO NOT USE ITS ONLY A TEST"
+    ],
+    "hasGlow": false
+  }
+}

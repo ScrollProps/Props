@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/lunalight_black_sheep",
+  "textures": {
+    "1": "scrollsprops:blocks/lunalight_black_sheep"
+  }
+}

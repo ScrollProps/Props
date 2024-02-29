@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/pack2",
+  "textures": {
+    "1": "scrollsprops:blocks/set_duelist_pack"
+  }
+}

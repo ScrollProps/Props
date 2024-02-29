@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/punishment_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/punishment_dragon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/stardust_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/stardust_dragon"
+  }
+}

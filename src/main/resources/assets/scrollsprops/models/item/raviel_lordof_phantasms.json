@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/raviel,_lord_of_phantasms",
+  "textures": {
+    "1": "scrollsprops:blocks/raviel_lord_of_phantasms"
+  }
+}

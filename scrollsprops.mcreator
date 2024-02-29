@@ -1,0 +1,998 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "JokeStuff",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "joke_stuff"
+    },
+    {
+      "name": "SilentHonarArkMamoa",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silent_honar_ark_mamoa"
+    },
+    {
+      "name": "BlasterBladeJK",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaster_blade_jk"
+    },
+    {
+      "name": "DuckTapeBlueEyes",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duck_tape_blue_eyes"
+    },
+    {
+      "name": "Assets",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assets"
+    },
+    {
+      "name": "DeckBOx",
+      "type": "gui",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      },
+      "registry_name": "deck_b_ox"
+    },
+    {
+      "name": "DeckboxI",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deckbox_i"
+    },
+    {
+      "name": "DarkMagicianGirl",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magician_girl"
+    },
+    {
+      "name": "Cards",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cards"
+    },
+    {
+      "name": "Test",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "KiwiMagicianGirl",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kiwi_magician_girl"
+    },
+    {
+      "name": "LemonMagicianGirl",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lemon_magician_girl"
+    },
+    {
+      "name": "ChocolateMagicianGirl",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_magician_girl"
+    },
+    {
+      "name": "BerryMagicianGirl",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_magician_girl"
+    },
+    {
+      "name": "AppleMagicianGirl",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apple_magician_girl"
+    },
+    {
+      "name": "BlankCard1",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blank_card_1"
+    },
+    {
+      "name": "BlankCard2",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blank_card_2"
+    },
+    {
+      "name": "Pack1",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pack_1"
+    },
+    {
+      "name": "Pack2",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pack_2"
+    },
+    {
+      "name": "Pack3",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pack_3"
+    },
+    {
+      "name": "Locatorcards",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "locatorcards"
+    },
+    {
+      "name": "MagiMagiMagicianGal",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magi_magi_magician_gal"
+    },
+    {
+      "name": "Malefictruthdragon",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malefictruthdragon"
+    },
+    {
+      "name": "MaleficStardustDragon",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malefic_stardust_dragon"
+    },
+    {
+      "name": "MaleficCyberEndDragon",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "malefic_cyber_end_dragon"
+    },
+    {
+      "name": "RedDragonArchfiend",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_dragon_archfiend"
+    },
+    {
+      "name": "StardustDragon",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stardust_dragon"
+    },
+    {
+      "name": "BlackRoseDragon",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_rose_dragon"
+    },
+    {
+      "name": "AncientFairyDragon",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ancient_fairy_dragon"
+    },
+    {
+      "name": "BlackWingedDragon",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_winged_dragon"
+    },
+    {
+      "name": "PowerToolDragon",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_tool_dragon"
+    },
+    {
+      "name": "LifeStreamDragon",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "life_stream_dragon"
+    },
+    {
+      "name": "SlifertheSkyDragon",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliferthe_sky_dragon"
+    },
+    {
+      "name": "ObelisktheTormentor",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obeliskthe_tormentor"
+    },
+    {
+      "name": "TheWingedDragonofRa1",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_winged_dragonof_ra_1"
+    },
+    {
+      "name": "TheWingedDragonofRa",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_winged_dragonof_ra"
+    },
+    {
+      "name": "UriaLordofSearingFlames",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uria_lordof_searing_flames"
+    },
+    {
+      "name": "RavielLordofPhantasms",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raviel_lordof_phantasms"
+    },
+    {
+      "name": "HamonLordOfStrikingThunder",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hamon_lord_of_striking_thunder"
+    },
+    {
+      "name": "RedEyesBlackDragon",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_eyes_black_dragon"
+    },
+    {
+      "name": "BlueEyesWhiteDragon",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_eyes_white_dragon"
+    },
+    {
+      "name": "ThunderDragon",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragon"
+    },
+    {
+      "name": "ThunderDragonduo",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragonduo"
+    },
+    {
+      "name": "ThunderDragonlord",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragonlord"
+    },
+    {
+      "name": "TwinHeadedThunderDragon",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "twin_headed_thunder_dragon"
+    },
+    {
+      "name": "ThunderDragonTitan",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragon_titan"
+    },
+    {
+      "name": "ThunderDragonColossus",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thunder_dragon_colossus"
+    },
+    {
+      "name": "ChaosEmporerDragonEnvoyoftheEnd",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaos_emporer_dragon_envoyofthe_end"
+    },
+    {
+      "name": "ChaosDragonLevianeer",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chaos_dragon_levianeer"
+    },
+    {
+      "name": "TerrifyingToddlerOfTorment",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "terrifying_toddler_of_torment"
+    },
+    {
+      "name": "FiveHeadedDragon",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "five_headed_dragon"
+    },
+    {
+      "name": "GiganticChampionSargas",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gigantic_champion_sargas"
+    },
+    {
+      "name": "LunalightBlackSheep",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lunalight_black_sheep"
+    },
+    {
+      "name": "WretchedGhostOftheAttic",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wretched_ghost_ofthe_attic"
+    },
+    {
+      "name": "UltimateConductorTyranno",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultimate_conductor_tyranno"
+    },
+    {
+      "name": "JudgmentDragon",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judgment_dragon"
+    },
+    {
+      "name": "PunishmentDragon",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "punishment_dragon"
+    },
+    {
+      "name": "JudgmenttheDragonofHeaven",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "judgmentthe_dragonof_heaven"
+    },
+    {
+      "name": "BlackRoseMagicianGirl",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_rose_magician_girl"
+    },
+    {
+      "name": "TyrannoInfinity",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tyranno_infinity"
+    },
+    {
+      "name": "EvilswarmOuroboros",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "evilswarm_ouroboros"
+    },
+    {
+      "name": "NumberCards",
+      "type": "tab",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_cards"
+    },
+    {
+      "name": "SpringansShipExblowrer",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "springans_ship_exblowrer"
+    },
+    {
+      "name": "SpringansMerrymaker",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "springans_merrymaker"
+    },
+    {
+      "name": "MelffyMommy",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "melffy_mommy"
+    },
+    {
+      "name": "Number27",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_27"
+    },
+    {
+      "name": "Number81",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_81"
+    },
+    {
+      "name": "PotOfGreed",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pot_of_greed"
+    },
+    {
+      "name": "StormingMirrorForce",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "storming_mirror_force"
+    },
+    {
+      "name": "Polymerization",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polymerization"
+    },
+    {
+      "name": "TwinTwisters",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "twin_twisters"
+    },
+    {
+      "name": "ScrapIronScarecrow",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrap_iron_scarecrow"
+    },
+    {
+      "name": "GoldSarcophagus",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_sarcophagus"
+    },
+    {
+      "name": "BurialFromADifferentDimension",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "burial_from_a_different_dimension"
+    },
+    {
+      "name": "MillenniumEye",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_eye"
+    },
+    {
+      "name": "AcademyDuelDisk",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "academy_duel_disk"
+    },
+    {
+      "name": "AcademyDuelDiskBlue",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "academy_duel_disk_blue"
+    },
+    {
+      "name": "AcademyDuelDiskRed",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "academy_duel_disk_red"
+    },
+    {
+      "name": "AcademyDuelDiskYellow",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "academy_duel_disk_yellow"
+    },
+    {
+      "name": "DuelDisk",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "duel_disk"
+    },
+    {
+      "name": "MillenniumKey",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_key"
+    },
+    {
+      "name": "MillenniumNecklace",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_necklace"
+    },
+    {
+      "name": "MillenniumPuzzle",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_puzzle"
+    },
+    {
+      "name": "MillenniumRing",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_ring"
+    },
+    {
+      "name": "MillenniumRod",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_rod"
+    },
+    {
+      "name": "MillenniumScale",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "millennium_scale"
+    },
+    {
+      "name": "NumberC101",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_c_101"
+    },
+    {
+      "name": "NumberC103",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_c_103"
+    },
+    {
+      "name": "Number85",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_85"
+    },
+    {
+      "name": "Number101",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_101"
+    },
+    {
+      "name": "NumberC104",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_c_104"
+    },
+    {
+      "name": "Number38",
+      "type": "item",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_38"
+    },
+    {
+      "name": "Number87",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_87"
+    },
+    {
+      "name": "Number24",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_24"
+    },
+    {
+      "name": "Number103",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "number_103"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "catsounds",
+      "files": [
+        "anime-girl-moaning-sounds-_1-minute_-made-with-voicemod"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
+      "item.number_c_103.name": "Number C103",
+      "item.pack_1.name": "Pack 1",
+      "item.number_81.name": "Number 81",
+      "item.tyranno_infinity.name": "Tyranno Infinity",
+      "item.academy_duel_disk_yellow.name": "Academy Duel Disk Yellow",
+      "subtitles.catsounds": "",
+      "item.lunalight_black_sheep.name": "Lunalight Black Sheep",
+      "item.thunder_dragonduo.name": "Thunder Dragonduo",
+      "item.magi_magi_magician_gal.name": "Magi Magi Magician Gal",
+      "item.record.test.desc": "DO NOT USE ITS ONLY A TEST",
+      "item.millennium_necklace.name": "Millennium Necklace",
+      "item.raviel_lordof_phantasms.name": "Raviel Lord Of Phantasms",
+      "item.thunder_dragonlord.name": "Thunder Dragonlord",
+      "item.polymerization.name": "Polymerization",
+      "item.chocolate_magician_girl.name": "Chocolate Magician Girl",
+      "item.malefictruthdragon.name": "Malefic Truth Dragon",
+      "item.duck_tape_blue_eyes.name": "Duck Tape Blue Eyes",
+      "item.millennium_rod.name": "Millennium Rod",
+      "item.chaos_emporer_dragon_envoyofthe_end.name": "Chaos Emporer Dragon Envoyofthe End",
+      "item.number_c_104.name": "Number C104",
+      "item.number_c_101.name": "Number C101",
+      "item.kiwi_magician_girl.name": "Kiwi Magician Girl",
+      "item.thunder_dragon_titan.name": "Thunder Dragon Titan",
+      "item.gold_sarcophagus.name": "Gold Sarcophagus",
+      "item.pack_2.name": "Pack 2",
+      "item.sliferthe_sky_dragon.name": "Sliferthe Sky Dragon",
+      "item.storming_mirror_force.name": "Storming Mirror Force",
+      "item.gigantic_champion_sargas.name": "Gigantic \"Champion\" Sargas",
+      "item.blank_card_1.name": "Blank Card 1",
+      "item.duel_disk.name": "Duel Disk",
+      "item.academy_duel_disk_blue.name": "Academy Duel Disk Blue",
+      "item.lemon_magician_girl.name": "Lemon Magician Girl",
+      "item.twin_headed_thunder_dragon.name": "Twin-Headed Thunder Dragon",
+      "item.number_85.name": "Number 85",
+      "itemGroup.tabjoke_stuff": "Joke Stuff",
+      "item.thunder_dragon_colossus.name": "Thunder Dragon Colossus",
+      "item.deckbox_i.name": "Deckbox",
+      "item.locatorcards.name": "Locator Cards",
+      "item.black_rose_dragon.name": "Black Rose Dragon",
+      "item.five_headed_dragon.name": "Five-Headed Dragon",
+      "item.black_rose_magician_girl.name": "Black Rose Magician Girl",
+      "item.number_101.name": "Number 101",
+      "item.blue_eyes_white_dragon.name": "Blue-Eyes White Dragon",
+      "item.malefic_stardust_dragon.name": "Malefic Stardust Dragon",
+      "item.springans_merrymaker.name": "Springans Merrymaker",
+      "item.thunder_dragon.name": "Thunder Dragon",
+      "item.chaos_dragon_levianeer.name": "Chaos Dragon Levianeer",
+      "item.twin_twisters.name": "Twin Twisters",
+      "item.number_87.name": "Number 87",
+      "item.power_tool_dragon.name": "Power Tool Dragon",
+      "item.obeliskthe_tormentor.name": "Obelisk The Tormentor",
+      "item.berry_magician_girl.name": "Berry Magician Girl",
+      "item.silent_honar_ark_mamoa.name": "Silent Honar Ark Mamoa",
+      "item.melffy_mommy.name": "Melffy Mommy",
+      "itemGroup.tabassets": "Assets",
+      "item.ancient_fairy_dragon.name": "Ancient Fairy Dragon",
+      "item.judgmentthe_dragonof_heaven.name": "Judgment, The Dragon Of Heaven",
+      "item.ultimate_conductor_tyranno.name": "Ultimate Conductor Tyranno",
+      "item.evilswarm_ouroboros.name": "Evilswarm Ouroboros",
+      "item.stardust_dragon.name": "Stardust Dragon",
+      "item.uria_lordof_searing_flames.name": "Uria Lord Of Searing Flames",
+      "item.number_27.name": "Number 27",
+      "item.number_24.name": "Number 24",
+      "item.number_38.name": "Number 38",
+      "item.black_winged_dragon.name": "Black-Winged Dragon",
+      "item.the_winged_dragonof_ra.name": "The Winged Dragonof Ra",
+      "item.millennium_ring.name": "Millennium Ring",
+      "item.hamon_lord_of_striking_thunder.name": "Hamon Lord Of Striking Thunder",
+      "item.scrap_iron_scarecrow.name": "Scrap-Iron Scarecrow",
+      "item.millennium_puzzle.name": "Millennium Puzzle",
+      "item.wretched_ghost_ofthe_attic.name": "Wretched Ghost Of The Attic",
+      "item.springans_ship_exblowrer.name": "Springans Ship - Exblowrer",
+      "item.the_winged_dragonof_ra_1.name": "The Winged Dragonof Ra",
+      "item.test.name": "DO NOT USE ITS ONLY A TEST",
+      "item.red_dragon_archfiend.name": "Red Dragon Archfiend",
+      "item.millennium_eye.name": "Millennium Eye",
+      "itemGroup.tabcards": "Cards",
+      "item.millennium_scale.name": "Millennium Scale",
+      "item.pot_of_greed.name": "Pot Of Greed",
+      "item.academy_duel_disk.name": "Academy Duel Disk",
+      "item.number_103.name": "Number 103",
+      "item.blaster_blade_jk.name": "Blaster Blade?",
+      "item.academy_duel_disk_red.name": "Academy Duel Disk Red",
+      "itemGroup.tabnumber_cards": "Number Cards",
+      "item.punishment_dragon.name": "Punishment Dragon",
+      "item.malefic_cyber_end_dragon.name": "Malefic Cyber End Dragon",
+      "item.red_eyes_black_dragon.name": "Red-Eyes Black Dragon",
+      "item.pack_3.name": "Pack 3",
+      "item.apple_magician_girl.name": "Apple Magician Girl",
+      "item.millennium_key.name": "Millennium Key",
+      "item.blank_card_2.name": "Blank Card 2",
+      "item.burial_from_a_different_dimension.name": "Burial From A Different Dimension",
+      "item.life_stream_dragon.name": "Life Stream Dragon",
+      "item.judgment_dragon.name": "Judgment Dragon",
+      "item.dark_magician_girl.name": "Dark Magician Girl"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "scrollsprops",
+    "modName": "ScrollsProps",
+    "version": "1.0.0",
+    "author": "Roger, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.scrollsprops",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

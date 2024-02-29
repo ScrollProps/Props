@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/chaos_dragon_levianeer",
+  "textures": {
+    "1": "scrollsprops:blocks/haos_ragon_evianeer"
+  }
+}

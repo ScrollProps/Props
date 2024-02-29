@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/black_rose_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/lack_ose_ragon"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/springans_ship_-_exblowrer",
+  "textures": {
+    "1": "scrollsprops:blocks/springans_ship_-_exblowrer"
+  }
+}

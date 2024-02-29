@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/deckbox",
+  "textures": {
+    "1": "scrollsprops:blocks/black_deck_box"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/twin-headed_thunder_dragon",
+  "textures": {
+    "1": "scrollsprops:blocks/win-eaded_hunder_ragon"
+  }
+}

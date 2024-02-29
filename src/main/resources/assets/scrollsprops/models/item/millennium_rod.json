@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/millennium_rod",
+  "textures": {
+    "4": "scrollsprops:blocks/millennium_item"
+  }
+}

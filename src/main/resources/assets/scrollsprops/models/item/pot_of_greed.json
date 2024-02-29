@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/pot_of_greed",
+  "textures": {
+    "1": "scrollsprops:blocks/pot_of_greed"
+  }
+}
