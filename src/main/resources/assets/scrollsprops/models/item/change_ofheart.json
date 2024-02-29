@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/change_ofheartjson",
+  "textures": {
+    "1": "scrollsprops:blocks/changeofheart"
+  }
+}
