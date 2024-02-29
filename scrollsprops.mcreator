@@ -10,7 +10,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "joke_stuff"
+      "registry_name": "joke_stuff",
+      "path": "~/Tabs"
     },
     {
       "name": "SilentHonarArkMamoa",
@@ -19,7 +20,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "silent_honar_ark_mamoa"
+      "registry_name": "silent_honar_ark_mamoa",
+      "path": "~/Cards"
     },
     {
       "name": "BlasterBladeJK",
@@ -28,7 +30,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blaster_blade_jk"
+      "registry_name": "blaster_blade_jk",
+      "path": "~/Cards"
     },
     {
       "name": "DuckTapeBlueEyes",
@@ -37,7 +40,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "duck_tape_blue_eyes"
+      "registry_name": "duck_tape_blue_eyes",
+      "path": "~/Cards"
     },
     {
       "name": "Assets",
@@ -46,7 +50,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "assets"
+      "registry_name": "assets",
+      "path": "~/Tabs"
     },
     {
       "name": "DeckBOx",
@@ -66,7 +71,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "deckbox_i"
+      "registry_name": "deckbox_i",
+      "path": "~/Items"
     },
     {
       "name": "DarkMagicianGirl",
@@ -75,7 +81,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_magician_girl"
+      "registry_name": "dark_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "Cards",
@@ -84,7 +91,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "cards"
+      "registry_name": "cards",
+      "path": "~/Tabs"
     },
     {
       "name": "Test",
@@ -93,7 +101,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "test"
+      "registry_name": "test",
+      "path": "~/Items"
     },
     {
       "name": "KiwiMagicianGirl",
@@ -102,7 +111,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "kiwi_magician_girl"
+      "registry_name": "kiwi_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "LemonMagicianGirl",
@@ -111,7 +121,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lemon_magician_girl"
+      "registry_name": "lemon_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "ChocolateMagicianGirl",
@@ -120,7 +131,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chocolate_magician_girl"
+      "registry_name": "chocolate_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "BerryMagicianGirl",
@@ -129,7 +141,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "berry_magician_girl"
+      "registry_name": "berry_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "AppleMagicianGirl",
@@ -138,7 +151,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "apple_magician_girl"
+      "registry_name": "apple_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "BlankCard1",
@@ -147,7 +161,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blank_card_1"
+      "registry_name": "blank_card_1",
+      "path": "~/Cards"
     },
     {
       "name": "BlankCard2",
@@ -156,7 +171,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blank_card_2"
+      "registry_name": "blank_card_2",
+      "path": "~/Cards"
     },
     {
       "name": "Pack1",
@@ -165,7 +181,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pack_1"
+      "registry_name": "pack_1",
+      "path": "~/Cards"
     },
     {
       "name": "Pack2",
@@ -174,7 +191,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pack_2"
+      "registry_name": "pack_2",
+      "path": "~/Cards"
     },
     {
       "name": "Pack3",
@@ -183,7 +201,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pack_3"
+      "registry_name": "pack_3",
+      "path": "~/Cards"
     },
     {
       "name": "Locatorcards",
@@ -192,7 +211,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "locatorcards"
+      "registry_name": "locatorcards",
+      "path": "~/Cards"
     },
     {
       "name": "MagiMagiMagicianGal",
@@ -201,7 +221,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "magi_magi_magician_gal"
+      "registry_name": "magi_magi_magician_gal",
+      "path": "~/Cards"
     },
     {
       "name": "Malefictruthdragon",
@@ -210,7 +231,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "malefictruthdragon"
+      "registry_name": "malefictruthdragon",
+      "path": "~/Cards"
     },
     {
       "name": "MaleficStardustDragon",
@@ -219,7 +241,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "malefic_stardust_dragon"
+      "registry_name": "malefic_stardust_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "MaleficCyberEndDragon",
@@ -228,7 +251,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "malefic_cyber_end_dragon"
+      "registry_name": "malefic_cyber_end_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "RedDragonArchfiend",
@@ -237,7 +261,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_dragon_archfiend"
+      "registry_name": "red_dragon_archfiend",
+      "path": "~/Cards"
     },
     {
       "name": "StardustDragon",
@@ -246,7 +271,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "stardust_dragon"
+      "registry_name": "stardust_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "BlackRoseDragon",
@@ -255,7 +281,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_rose_dragon"
+      "registry_name": "black_rose_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "AncientFairyDragon",
@@ -264,7 +291,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ancient_fairy_dragon"
+      "registry_name": "ancient_fairy_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "BlackWingedDragon",
@@ -273,7 +301,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_winged_dragon"
+      "registry_name": "black_winged_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "PowerToolDragon",
@@ -282,7 +311,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "power_tool_dragon"
+      "registry_name": "power_tool_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "LifeStreamDragon",
@@ -291,7 +321,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "life_stream_dragon"
+      "registry_name": "life_stream_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "SlifertheSkyDragon",
@@ -300,7 +331,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "sliferthe_sky_dragon"
+      "registry_name": "sliferthe_sky_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "ObelisktheTormentor",
@@ -309,7 +341,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "obeliskthe_tormentor"
+      "registry_name": "obeliskthe_tormentor",
+      "path": "~/Cards"
     },
     {
       "name": "TheWingedDragonofRa1",
@@ -318,7 +351,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_winged_dragonof_ra_1"
+      "registry_name": "the_winged_dragonof_ra_1",
+      "path": "~/Cards"
     },
     {
       "name": "TheWingedDragonofRa",
@@ -327,7 +361,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_winged_dragonof_ra"
+      "registry_name": "the_winged_dragonof_ra",
+      "path": "~/Cards"
     },
     {
       "name": "UriaLordofSearingFlames",
@@ -336,7 +371,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "uria_lordof_searing_flames"
+      "registry_name": "uria_lordof_searing_flames",
+      "path": "~/Cards"
     },
     {
       "name": "RavielLordofPhantasms",
@@ -345,7 +381,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "raviel_lordof_phantasms"
+      "registry_name": "raviel_lordof_phantasms",
+      "path": "~/Cards"
     },
     {
       "name": "HamonLordOfStrikingThunder",
@@ -354,7 +391,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "hamon_lord_of_striking_thunder"
+      "registry_name": "hamon_lord_of_striking_thunder",
+      "path": "~/Cards"
     },
     {
       "name": "RedEyesBlackDragon",
@@ -363,7 +401,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "red_eyes_black_dragon"
+      "registry_name": "red_eyes_black_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "BlueEyesWhiteDragon",
@@ -372,7 +411,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blue_eyes_white_dragon"
+      "registry_name": "blue_eyes_white_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "ThunderDragon",
@@ -381,7 +421,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thunder_dragon"
+      "registry_name": "thunder_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "ThunderDragonduo",
@@ -390,7 +431,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thunder_dragonduo"
+      "registry_name": "thunder_dragonduo",
+      "path": "~/Cards"
     },
     {
       "name": "ThunderDragonlord",
@@ -399,7 +441,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thunder_dragonlord"
+      "registry_name": "thunder_dragonlord",
+      "path": "~/Cards"
     },
     {
       "name": "TwinHeadedThunderDragon",
@@ -408,7 +451,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "twin_headed_thunder_dragon"
+      "registry_name": "twin_headed_thunder_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "ThunderDragonTitan",
@@ -417,7 +461,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thunder_dragon_titan"
+      "registry_name": "thunder_dragon_titan",
+      "path": "~/Cards"
     },
     {
       "name": "ThunderDragonColossus",
@@ -426,7 +471,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "thunder_dragon_colossus"
+      "registry_name": "thunder_dragon_colossus",
+      "path": "~/Cards"
     },
     {
       "name": "ChaosEmporerDragonEnvoyoftheEnd",
@@ -435,7 +481,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chaos_emporer_dragon_envoyofthe_end"
+      "registry_name": "chaos_emporer_dragon_envoyofthe_end",
+      "path": "~/Cards"
     },
     {
       "name": "ChaosDragonLevianeer",
@@ -444,7 +491,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chaos_dragon_levianeer"
+      "registry_name": "chaos_dragon_levianeer",
+      "path": "~/Cards"
     },
     {
       "name": "TerrifyingToddlerOfTorment",
@@ -453,7 +501,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "terrifying_toddler_of_torment"
+      "registry_name": "terrifying_toddler_of_torment",
+      "path": "~/Cards"
     },
     {
       "name": "FiveHeadedDragon",
@@ -462,7 +511,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "five_headed_dragon"
+      "registry_name": "five_headed_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "GiganticChampionSargas",
@@ -471,7 +521,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gigantic_champion_sargas"
+      "registry_name": "gigantic_champion_sargas",
+      "path": "~/Cards"
     },
     {
       "name": "LunalightBlackSheep",
@@ -480,7 +531,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "lunalight_black_sheep"
+      "registry_name": "lunalight_black_sheep",
+      "path": "~/Cards"
     },
     {
       "name": "WretchedGhostOftheAttic",
@@ -489,7 +541,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wretched_ghost_ofthe_attic"
+      "registry_name": "wretched_ghost_ofthe_attic",
+      "path": "~/Cards"
     },
     {
       "name": "UltimateConductorTyranno",
@@ -498,7 +551,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ultimate_conductor_tyranno"
+      "registry_name": "ultimate_conductor_tyranno",
+      "path": "~/Cards"
     },
     {
       "name": "JudgmentDragon",
@@ -507,7 +561,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "judgment_dragon"
+      "registry_name": "judgment_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "PunishmentDragon",
@@ -516,7 +571,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "punishment_dragon"
+      "registry_name": "punishment_dragon",
+      "path": "~/Cards"
     },
     {
       "name": "JudgmenttheDragonofHeaven",
@@ -525,7 +581,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "judgmentthe_dragonof_heaven"
+      "registry_name": "judgmentthe_dragonof_heaven",
+      "path": "~/Cards"
     },
     {
       "name": "BlackRoseMagicianGirl",
@@ -534,7 +591,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_rose_magician_girl"
+      "registry_name": "black_rose_magician_girl",
+      "path": "~/Cards"
     },
     {
       "name": "TyrannoInfinity",
@@ -543,7 +601,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "tyranno_infinity"
+      "registry_name": "tyranno_infinity",
+      "path": "~/Cards"
     },
     {
       "name": "EvilswarmOuroboros",
@@ -552,7 +611,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "evilswarm_ouroboros"
+      "registry_name": "evilswarm_ouroboros",
+      "path": "~/Cards"
     },
     {
       "name": "NumberCards",
@@ -561,7 +621,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_cards"
+      "registry_name": "number_cards",
+      "path": "~/Tabs"
     },
     {
       "name": "SpringansShipExblowrer",
@@ -570,7 +631,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "springans_ship_exblowrer"
+      "registry_name": "springans_ship_exblowrer",
+      "path": "~/Cards"
     },
     {
       "name": "SpringansMerrymaker",
@@ -579,7 +641,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "springans_merrymaker"
+      "registry_name": "springans_merrymaker",
+      "path": "~/Cards"
     },
     {
       "name": "MelffyMommy",
@@ -588,7 +651,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "melffy_mommy"
+      "registry_name": "melffy_mommy",
+      "path": "~/Cards"
     },
     {
       "name": "Number27",
@@ -597,7 +661,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_27"
+      "registry_name": "number_27",
+      "path": "~/Cards"
     },
     {
       "name": "Number81",
@@ -606,7 +671,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_81"
+      "registry_name": "number_81",
+      "path": "~/Cards"
     },
     {
       "name": "PotOfGreed",
@@ -615,7 +681,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pot_of_greed"
+      "registry_name": "pot_of_greed",
+      "path": "~/Cards"
     },
     {
       "name": "StormingMirrorForce",
@@ -624,7 +691,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "storming_mirror_force"
+      "registry_name": "storming_mirror_force",
+      "path": "~/Cards"
     },
     {
       "name": "Polymerization",
@@ -633,7 +701,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "polymerization"
+      "registry_name": "polymerization",
+      "path": "~/Cards"
     },
     {
       "name": "TwinTwisters",
@@ -642,7 +711,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "twin_twisters"
+      "registry_name": "twin_twisters",
+      "path": "~/Cards"
     },
     {
       "name": "ScrapIronScarecrow",
@@ -651,7 +721,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "scrap_iron_scarecrow"
+      "registry_name": "scrap_iron_scarecrow",
+      "path": "~/Cards"
     },
     {
       "name": "GoldSarcophagus",
@@ -660,7 +731,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gold_sarcophagus"
+      "registry_name": "gold_sarcophagus",
+      "path": "~/Cards"
     },
     {
       "name": "BurialFromADifferentDimension",
@@ -669,7 +741,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "burial_from_a_different_dimension"
+      "registry_name": "burial_from_a_different_dimension",
+      "path": "~/Cards"
     },
     {
       "name": "MillenniumEye",
@@ -678,7 +751,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_eye"
+      "registry_name": "millennium_eye",
+      "path": "~/Items"
     },
     {
       "name": "AcademyDuelDisk",
@@ -687,7 +761,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "academy_duel_disk"
+      "registry_name": "academy_duel_disk",
+      "path": "~/Items"
     },
     {
       "name": "AcademyDuelDiskBlue",
@@ -696,7 +771,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "academy_duel_disk_blue"
+      "registry_name": "academy_duel_disk_blue",
+      "path": "~/Items"
     },
     {
       "name": "AcademyDuelDiskRed",
@@ -705,7 +781,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "academy_duel_disk_red"
+      "registry_name": "academy_duel_disk_red",
+      "path": "~/Items"
     },
     {
       "name": "AcademyDuelDiskYellow",
@@ -714,7 +791,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "academy_duel_disk_yellow"
+      "registry_name": "academy_duel_disk_yellow",
+      "path": "~/Items"
     },
     {
       "name": "DuelDisk",
@@ -723,7 +801,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "duel_disk"
+      "registry_name": "duel_disk",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumKey",
@@ -732,7 +811,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_key"
+      "registry_name": "millennium_key",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumNecklace",
@@ -741,7 +821,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_necklace"
+      "registry_name": "millennium_necklace",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumPuzzle",
@@ -750,7 +831,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_puzzle"
+      "registry_name": "millennium_puzzle",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumRing",
@@ -759,7 +841,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_ring"
+      "registry_name": "millennium_ring",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumRod",
@@ -768,7 +851,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_rod"
+      "registry_name": "millennium_rod",
+      "path": "~/Items"
     },
     {
       "name": "MillenniumScale",
@@ -777,7 +861,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "millennium_scale"
+      "registry_name": "millennium_scale",
+      "path": "~/Items"
     },
     {
       "name": "NumberC101",
@@ -786,7 +871,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_c_101"
+      "registry_name": "number_c_101",
+      "path": "~/Cards"
     },
     {
       "name": "NumberC103",
@@ -795,7 +881,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_c_103"
+      "registry_name": "number_c_103",
+      "path": "~/Cards"
     },
     {
       "name": "Number85",
@@ -804,7 +891,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_85"
+      "registry_name": "number_85",
+      "path": "~/Cards"
     },
     {
       "name": "Number101",
@@ -813,7 +901,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_101"
+      "registry_name": "number_101",
+      "path": "~/Cards"
     },
     {
       "name": "NumberC104",
@@ -822,7 +911,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_c_104"
+      "registry_name": "number_c_104",
+      "path": "~/Cards"
     },
     {
       "name": "Number38",
@@ -831,7 +921,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_38"
+      "registry_name": "number_38",
+      "path": "~/Cards"
     },
     {
       "name": "Number87",
@@ -840,7 +931,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_87"
+      "registry_name": "number_87",
+      "path": "~/Cards"
     },
     {
       "name": "Number24",
@@ -849,7 +941,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_24"
+      "registry_name": "number_24",
+      "path": "~/Cards"
     },
     {
       "name": "Number103",
@@ -858,7 +951,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "number_103"
+      "registry_name": "number_103",
+      "path": "~/Cards"
     }
   ],
   "variable_elements": [],
@@ -974,7 +1068,20 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Cards",
+        "children": []
+      },
+      {
+        "name": "Tabs",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "scrollsprops",
