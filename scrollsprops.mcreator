@@ -963,6 +963,16 @@
       "ids": {},
       "registry_name": "change_ofheart",
       "path": "~/Cards"
+    },
+    {
+      "name": "FangOfCrit",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fang_of_crit",
+      "path": "~/Cards"
     }
   ],
   "variable_elements": [],
@@ -1016,6 +1026,7 @@
       "item.number_85.name": "Number 85",
       "itemGroup.tabjoke_stuff": "Joke Stuff",
       "item.thunder_dragon_colossus.name": "Thunder Dragon Colossus",
+      "item.fang_of_crit.name": "The Fang of Critias",
       "item.deckbox_i.name": "Deckbox",
       "item.locatorcards.name": "Locator Cards",
       "item.black_rose_dragon.name": "Black Rose Dragon",

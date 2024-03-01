@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/fangofc",
+  "textures": {
+    "1": "scrollsprops:blocks/fangofc"
+  }
+}
