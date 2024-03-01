@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/yellow_deck_box",
+  "textures": {
+    "1": "scrollsprops:blocks/yellow_deck_box"
+  }
+}

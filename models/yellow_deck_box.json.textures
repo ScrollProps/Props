@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "yellow_deck_box"
+      },
+      "name": "default"
+    }
+  }
+}
