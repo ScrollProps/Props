@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/the_claw_of_hermos",
+  "textures": {
+    "1": "scrollsprops:blocks/46232525"
+  }
+}

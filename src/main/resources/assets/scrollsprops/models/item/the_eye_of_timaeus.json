@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/the_eye_of_timaeus",
+  "textures": {
+    "1": "scrollsprops:blocks/1784686"
+  }
+}
