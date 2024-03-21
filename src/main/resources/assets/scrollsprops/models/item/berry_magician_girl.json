@@ -1,6 +1,6 @@
 {
   "parent": "scrollsprops:custom/berry_magician_girl",
   "textures": {
-    "1": "scrollsprops:blocks/black_rose_magician_girl"
+    "1": "scrollsprops:blocks/berry_magician_girl"
   }
 }

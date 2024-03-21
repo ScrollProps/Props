@@ -5,7 +5,7 @@
     "renderType": 1,
     "texture": "black_deck_box",
     "customModelName": "deckbox:default",
-    "name": "Deckbox",
+    "name": "Deck Box",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:Assets"

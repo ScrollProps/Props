@@ -15,7 +15,6 @@ import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
-import net.mcreator.scrollsprops.creativetab.TabJokeStuff;
 import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 
 import java.util.List;
@@ -43,7 +42,13 @@ public class ItemTest extends ElementsScrollspropsMod.ModElement {
 			super("test", ElementsScrollspropsMod.sounds.get(new ResourceLocation("scrollsprops:catsounds")));
 			setUnlocalizedName("test");
 			setRegistryName("test");
-			setCreativeTab(TabJokeStuff.tab);
+			setCreativeTab(null);
+		}
+
+		@Override
+		@SideOnly(Side.CLIENT)
+		public boolean hasEffect(ItemStack itemstack) {
+			return true;
 		}
 
 		@Override
