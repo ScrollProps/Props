@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/evilheromoon",
+  "textures": {
+    "1": "scrollsprops:blocks/evilheromoon"
+  }
+}
