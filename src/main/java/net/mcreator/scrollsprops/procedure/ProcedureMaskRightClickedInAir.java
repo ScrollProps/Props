@@ -1,10 +1,5 @@
 package net.mcreator.scrollsprops.procedure;
 
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.event.CommandEvent;
-import net.minecraftforge.common.MinecraftForge;
-
 import net.minecraft.world.World;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.util.math.BlockPos;
@@ -74,31 +69,5 @@ public class ProcedureMaskRightClickedInAir extends ElementsScrollspropsMod.ModE
 				}, "setskin https://i.imgur.com/YGNXxdd.png");
 			}
 		}
-	}
-
-	@SubscribeEvent
-	public void onCommand(CommandEvent event) {
-		ICommandSender sender = event.getSender();
-		Entity entity = sender.getCommandSenderEntity();
-		if (entity != null) {
-			int i = (int) sender.getPosition().getX();
-			int j = (int) sender.getPosition().getY();
-			int k = (int) sender.getPosition().getZ();
-			String command = event.getCommand().getName();
-			java.util.HashMap<String, Object> dependencies = new java.util.HashMap<>();
-			dependencies.put("x", i);
-			dependencies.put("y", j);
-			dependencies.put("z", k);
-			dependencies.put("world", entity.world);
-			dependencies.put("entity", entity);
-			dependencies.put("command", command);
-			dependencies.put("event", event);
-			this.executeProcedure(dependencies);
-		}
-	}
-
-	@Override
-	public void preInit(FMLPreInitializationEvent event) {
-		MinecraftForge.EVENT_BUS.register(this);
 	}
 }
