@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "texture": "tiege_d_38x48x6"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/mask",
+  "textures": {
+    "texture": "scrollsprops:blocks/mask"
+  }
+}
