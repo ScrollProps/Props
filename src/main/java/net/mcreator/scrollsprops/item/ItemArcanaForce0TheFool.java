@@ -12,7 +12,7 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.scrollsprops.creativetab.TabAssets;
+import net.mcreator.scrollsprops.creativetab.TabCards;
 import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 
 @ElementsScrollspropsMod.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemArcanaForce0TheFool extends ElementsScrollspropsMod.ModElement 
 			maxStackSize = 64;
 			setUnlocalizedName("arcana_force_0_the_fool");
 			setRegistryName("arcana_force_0_the_fool");
-			setCreativeTab(TabAssets.tab);
+			setCreativeTab(TabCards.tab);
 		}
 
 		@Override
