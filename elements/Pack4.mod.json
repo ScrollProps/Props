@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "pack2",
-    "customModelName": "pack2:default",
-    "name": "Pack 2",
+    "texture": "pack3",
+    "customModelName": "pack4:default",
+    "name": "Pack 4",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:Assets"

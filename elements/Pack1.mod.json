@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "black_deck_box",
+    "texture": "pacl",
     "customModelName": "pack1:default",
     "name": "Pack 1",
     "rarity": "COMMON",

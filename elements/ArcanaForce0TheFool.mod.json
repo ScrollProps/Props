@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "pack2",
-    "customModelName": "pack2:default",
-    "name": "Pack 2",
+    "texture": "62892347",
+    "customModelName": "62892347:default",
+    "name": "Arcana Force 0 The Fool",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:Assets"

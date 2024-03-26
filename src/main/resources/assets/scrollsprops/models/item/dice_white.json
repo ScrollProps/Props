@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/dice_base",
+  "textures": {
+    "0": "scrollsprops:blocks/dice_white"
+  }
+}

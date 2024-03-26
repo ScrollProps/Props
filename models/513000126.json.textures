@@ -2,7 +2,7 @@
   "mappings": {
     "default": {
       "map": {
-        "texture": "tiege_d_38x48x6"
+        "1": "513000126"
       },
       "name": "default"
     }

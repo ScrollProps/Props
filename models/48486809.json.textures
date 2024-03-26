@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "wk_lv6"
+      },
+      "name": "default"
+    }
+  }
+}

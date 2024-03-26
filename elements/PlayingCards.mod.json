@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Playing Cards",
+    "icon": {
+      "value": "CUSTOM:DiceWhite"
+    },
+    "showSearch": false
+  }
+}

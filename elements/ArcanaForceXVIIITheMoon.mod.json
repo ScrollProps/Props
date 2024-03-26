@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "pack2",
-    "customModelName": "pack2:default",
-    "name": "Pack 2",
+    "texture": "97452817",
+    "customModelName": "97452817:default",
+    "name": "Arcana Force XVIII The Moon",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:Assets"
+      "value": "CUSTOM:Cards"
     },
     "stackSize": 64,
     "enchantability": 0,

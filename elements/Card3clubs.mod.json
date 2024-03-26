@@ -2,13 +2,13 @@
   "_fv": 18,
   "_type": "item",
   "definition": {
-    "renderType": 1,
-    "texture": "pack2",
-    "customModelName": "pack2:default",
-    "name": "Pack 2",
+    "renderType": 0,
+    "texture": "card_3_clubs",
+    "customModelName": "Normal",
+    "name": "3 Clubs",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:Assets"
+      "value": "CUSTOM:PlayingCards"
     },
     "stackSize": 64,
     "enchantability": 0,
