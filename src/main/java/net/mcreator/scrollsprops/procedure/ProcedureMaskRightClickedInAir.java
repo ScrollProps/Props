@@ -3,10 +3,16 @@ package net.mcreator.scrollsprops.procedure;
 import net.minecraft.world.World;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.EnumHand;
 import net.minecraft.server.MinecraftServer;
+import net.minecraft.item.ItemStack;
+import net.minecraft.entity.player.EntityPlayerMP;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.Entity;
 import net.minecraft.command.ICommandSender;
 
+import net.mcreator.scrollsprops.item.ItemMask;
 import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 
 import java.util.Map;
@@ -66,8 +72,21 @@ public class ProcedureMaskRightClickedInAir extends ElementsScrollspropsMod.ModE
 					public Entity getCommandSenderEntity() {
 						return _ent;
 					}
-				}, "setskin https://i.imgur.com/YGNXxdd.png");
+				}, "/setskin @p https://reskinproxy.sekwah.com/YGNXxdd.png ");
 			}
+		}
+		if (entity instanceof EntityPlayer) {
+			((EntityPlayer) entity).inventory.armorInventory.set(3, new ItemStack(ItemMask.block, (int) (1)));
+			if (entity instanceof EntityPlayerMP)
+				((EntityPlayerMP) entity).inventory.markDirty();
+		}
+		/* @ItemStack */
+		if (entity instanceof EntityLivingBase) {
+			ItemStack _setstack = new ItemStack(ItemMask.block, (int) (1));
+			_setstack.setCount(0);
+			((EntityLivingBase) entity).setHeldItem(EnumHand.MAIN_HAND, _setstack);
+			if (entity instanceof EntityPlayerMP)
+				((EntityPlayerMP) entity).inventory.markDirty();
 		}
 	}
 }
