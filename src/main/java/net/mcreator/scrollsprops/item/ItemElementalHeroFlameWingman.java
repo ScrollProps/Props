@@ -20,7 +20,7 @@ public class ItemElementalHeroFlameWingman extends ElementsScrollspropsMod.ModEl
 	@GameRegistry.ObjectHolder("scrollsprops:elemental_hero_flame_wingman")
 	public static final Item block = null;
 	public ItemElementalHeroFlameWingman(ElementsScrollspropsMod instance) {
-		super(instance, 112);
+		super(instance, 95);
 	}
 
 	@Override

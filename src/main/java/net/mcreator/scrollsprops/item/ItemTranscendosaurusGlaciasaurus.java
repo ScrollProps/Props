@@ -20,7 +20,7 @@ public class ItemTranscendosaurusGlaciasaurus extends ElementsScrollspropsMod.Mo
 	@GameRegistry.ObjectHolder("scrollsprops:transcendosaurus_glaciasaurus")
 	public static final Item block = null;
 	public ItemTranscendosaurusGlaciasaurus(ElementsScrollspropsMod instance) {
-		super(instance, 155);
+		super(instance, 133);
 	}
 
 	@Override

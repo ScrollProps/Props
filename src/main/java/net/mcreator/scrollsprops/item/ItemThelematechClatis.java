@@ -20,7 +20,7 @@ public class ItemThelematechClatis extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:thelematech_clatis")
 	public static final Item block = null;
 	public ItemThelematechClatis(ElementsScrollspropsMod instance) {
-		super(instance, 157);
+		super(instance, 135);
 	}
 
 	@Override

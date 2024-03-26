@@ -20,7 +20,7 @@ public class ItemArcanaForceVIIITheStrength extends ElementsScrollspropsMod.ModE
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_viii_the_strength")
 	public static final Item block = null;
 	public ItemArcanaForceVIIITheStrength(ElementsScrollspropsMod instance) {
-		super(instance, 125);
+		super(instance, 104);
 	}
 
 	@Override

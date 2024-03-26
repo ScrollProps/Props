@@ -20,7 +20,7 @@ public class ItemMythicalBeastMasterCerberus extends ElementsScrollspropsMod.Mod
 	@GameRegistry.ObjectHolder("scrollsprops:mythical_beast_master_cerberus")
 	public static final Item block = null;
 	public ItemMythicalBeastMasterCerberus(ElementsScrollspropsMod instance) {
-		super(instance, 144);
+		super(instance, 122);
 	}
 
 	@Override

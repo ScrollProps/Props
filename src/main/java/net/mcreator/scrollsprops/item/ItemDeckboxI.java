@@ -20,7 +20,7 @@ public class ItemDeckboxI extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:deckbox_i")
 	public static final Item block = null;
 	public ItemDeckboxI(ElementsScrollspropsMod instance) {
-		super(instance, 7);
+		super(instance, 8);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemTest extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:test")
 	public static final Item block = null;
 	public ItemTest(ElementsScrollspropsMod instance) {
-		super(instance, 10);
+		super(instance, 158);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemMillenniumPuzzle extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_puzzle")
 	public static final Item block = null;
 	public ItemMillenniumPuzzle(ElementsScrollspropsMod instance) {
-		super(instance, 83);
+		super(instance, 29);
 	}
 
 	@Override

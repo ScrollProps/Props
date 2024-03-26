@@ -20,7 +20,7 @@ public class ItemBaronessdeFleur extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:baronessde_fleur")
 	public static final Item block = null;
 	public ItemBaronessdeFleur(ElementsScrollspropsMod instance) {
-		super(instance, 153);
+		super(instance, 131);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemPunishmentDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:punishment_dragon")
 	public static final Item block = null;
 	public ItemPunishmentDragon(ElementsScrollspropsMod instance) {
-		super(instance, 57);
+		super(instance, 75);
 	}
 
 	@Override

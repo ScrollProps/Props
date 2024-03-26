@@ -24,7 +24,7 @@ public class ItemMillenniumRod extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_rod")
 	public static final Item block = null;
 	public ItemMillenniumRod(ElementsScrollspropsMod instance) {
-		super(instance, 85);
+		super(instance, 31);
 	}
 
 	@Override

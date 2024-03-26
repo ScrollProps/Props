@@ -20,7 +20,7 @@ public class ItemGuardianChimera extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:guardian_chimera")
 	public static final Item block = null;
 	public ItemGuardianChimera(ElementsScrollspropsMod instance) {
-		super(instance, 130);
+		super(instance, 109);
 	}
 
 	@Override

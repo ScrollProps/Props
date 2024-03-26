@@ -20,7 +20,7 @@ import java.util.Map;
 @ElementsScrollspropsMod.ModElement.Tag
 public class ProcedureMaskRightClickedInAir extends ElementsScrollspropsMod.ModElement {
 	public ProcedureMaskRightClickedInAir(ElementsScrollspropsMod instance) {
-		super(instance, 106);
+		super(instance, 160);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

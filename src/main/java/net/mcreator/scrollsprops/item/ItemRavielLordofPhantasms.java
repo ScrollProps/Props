@@ -20,7 +20,7 @@ public class ItemRavielLordofPhantasms extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:raviel_lordof_phantasms")
 	public static final Item block = null;
 	public ItemRavielLordofPhantasms(ElementsScrollspropsMod instance) {
-		super(instance, 38);
+		super(instance, 56);
 	}
 
 	@Override

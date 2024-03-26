@@ -20,7 +20,7 @@ public class ItemMillenniumRing extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_ring")
 	public static final Item block = null;
 	public ItemMillenniumRing(ElementsScrollspropsMod instance) {
-		super(instance, 84);
+		super(instance, 30);
 	}
 
 	@Override

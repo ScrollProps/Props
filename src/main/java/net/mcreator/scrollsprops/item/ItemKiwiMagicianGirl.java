@@ -20,7 +20,7 @@ public class ItemKiwiMagicianGirl extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:kiwi_magician_girl")
 	public static final Item block = null;
 	public ItemKiwiMagicianGirl(ElementsScrollspropsMod instance) {
-		super(instance, 11);
+		super(instance, 35);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemArcanaForceXVTheFiend extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_xv_the_fiend")
 	public static final Item block = null;
 	public ItemArcanaForceXVTheFiend(ElementsScrollspropsMod instance) {
-		super(instance, 127);
+		super(instance, 106);
 	}
 
 	@Override

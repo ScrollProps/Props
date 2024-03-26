@@ -20,7 +20,7 @@ public class ItemEvilswarmOuroboros extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:evilswarm_ouroboros")
 	public static final Item block = null;
 	public ItemEvilswarmOuroboros(ElementsScrollspropsMod instance) {
-		super(instance, 61);
+		super(instance, 78);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemEvilHeroMaliciousBane extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:evil_hero_malicious_bane")
 	public static final Item block = null;
 	public ItemEvilHeroMaliciousBane(ElementsScrollspropsMod instance) {
-		super(instance, 111);
+		super(instance, 94);
 	}
 
 	@Override

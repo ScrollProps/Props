@@ -20,7 +20,7 @@ public class ItemTitanocider extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:titanocider")
 	public static final Item block = null;
 	public ItemTitanocider(ElementsScrollspropsMod instance) {
-		super(instance, 148);
+		super(instance, 126);
 	}
 
 	@Override

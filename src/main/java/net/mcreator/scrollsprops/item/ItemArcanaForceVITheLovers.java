@@ -20,7 +20,7 @@ public class ItemArcanaForceVITheLovers extends ElementsScrollspropsMod.ModEleme
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_vi_the_lovers")
 	public static final Item block = null;
 	public ItemArcanaForceVITheLovers(ElementsScrollspropsMod instance) {
-		super(instance, 124);
+		super(instance, 103);
 	}
 
 	@Override

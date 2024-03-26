@@ -20,7 +20,7 @@ public class ItemIceDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:ice_dragon")
 	public static final Item block = null;
 	public ItemIceDragon(ElementsScrollspropsMod instance) {
-		super(instance, 136);
+		super(instance, 151);
 	}
 
 	@Override

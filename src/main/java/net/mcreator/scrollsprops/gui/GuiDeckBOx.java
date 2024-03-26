@@ -38,7 +38,7 @@ public class GuiDeckBOx extends ElementsScrollspropsMod.ModElement {
 	public static int GUIID = 1;
 	public static HashMap guistate = new HashMap();
 	public GuiDeckBOx(ElementsScrollspropsMod instance) {
-		super(instance, 6);
+		super(instance, 156);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemGiganticChampionSargas extends ElementsScrollspropsMod.ModEleme
 	@GameRegistry.ObjectHolder("scrollsprops:gigantic_champion_sargas")
 	public static final Item block = null;
 	public ItemGiganticChampionSargas(ElementsScrollspropsMod instance) {
-		super(instance, 52);
+		super(instance, 70);
 	}
 
 	@Override

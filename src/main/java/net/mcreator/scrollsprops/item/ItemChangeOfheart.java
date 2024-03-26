@@ -24,7 +24,7 @@ public class ItemChangeOfheart extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:change_ofheart")
 	public static final Item block = null;
 	public ItemChangeOfheart(ElementsScrollspropsMod instance) {
-		super(instance, 96);
+		super(instance, 89);
 	}
 
 	@Override

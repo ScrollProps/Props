@@ -20,7 +20,7 @@ public class ItemMillenniumNecklace extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_necklace")
 	public static final Item block = null;
 	public ItemMillenniumNecklace(ElementsScrollspropsMod instance) {
-		super(instance, 82);
+		super(instance, 28);
 	}
 
 	@Override

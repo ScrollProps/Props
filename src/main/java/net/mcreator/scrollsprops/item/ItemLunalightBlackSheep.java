@@ -20,7 +20,7 @@ public class ItemLunalightBlackSheep extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:lunalight_black_sheep")
 	public static final Item block = null;
 	public ItemLunalightBlackSheep(ElementsScrollspropsMod instance) {
-		super(instance, 53);
+		super(instance, 71);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemNumber85 extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:number_85")
 	public static final Item block = null;
 	public ItemNumber85(ElementsScrollspropsMod instance) {
-		super(instance, 89);
+		super(instance, 141);
 	}
 
 	@Override

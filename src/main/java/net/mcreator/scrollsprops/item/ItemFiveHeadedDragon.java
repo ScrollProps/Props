@@ -20,7 +20,7 @@ public class ItemFiveHeadedDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:five_headed_dragon")
 	public static final Item block = null;
 	public ItemFiveHeadedDragon(ElementsScrollspropsMod instance) {
-		super(instance, 51);
+		super(instance, 69);
 	}
 
 	@Override

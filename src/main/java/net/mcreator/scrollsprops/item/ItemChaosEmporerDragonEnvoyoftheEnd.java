@@ -20,7 +20,7 @@ public class ItemChaosEmporerDragonEnvoyoftheEnd extends ElementsScrollspropsMod
 	@GameRegistry.ObjectHolder("scrollsprops:chaos_emporer_dragon_envoyofthe_end")
 	public static final Item block = null;
 	public ItemChaosEmporerDragonEnvoyoftheEnd(ElementsScrollspropsMod instance) {
-		super(instance, 48);
+		super(instance, 66);
 	}
 
 	@Override

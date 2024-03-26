@@ -30,7 +30,7 @@ public class ItemAcademyDiskPurple extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:academy_disk_purple")
 	public static final Item block = null;
 	public ItemAcademyDiskPurple(ElementsScrollspropsMod instance) {
-		super(instance, 105);
+		super(instance, 33);
 	}
 
 	@Override

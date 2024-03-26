@@ -20,7 +20,7 @@ public class ItemMagentadeckbox extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:magentadeckbox")
 	public static final Item block = null;
 	public ItemMagentadeckbox(ElementsScrollspropsMod instance) {
-		super(instance, 100);
+		super(instance, 16);
 	}
 
 	@Override

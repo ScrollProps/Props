@@ -20,7 +20,7 @@ public class ItemTheClawOfHermos extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:the_claw_of_hermos")
 	public static final Item block = null;
 	public ItemTheClawOfHermos(ElementsScrollspropsMod instance) {
-		super(instance, 103);
+		super(instance, 91);
 	}
 
 	@Override

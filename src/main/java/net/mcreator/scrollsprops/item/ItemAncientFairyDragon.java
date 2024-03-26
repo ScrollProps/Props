@@ -20,7 +20,7 @@ public class ItemAncientFairyDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:ancient_fairy_dragon")
 	public static final Item block = null;
 	public ItemAncientFairyDragon(ElementsScrollspropsMod instance) {
-		super(instance, 29);
+		super(instance, 47);
 	}
 
 	@Override

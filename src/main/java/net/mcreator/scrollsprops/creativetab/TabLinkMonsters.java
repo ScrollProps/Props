@@ -13,7 +13,7 @@ import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 @ElementsScrollspropsMod.ModElement.Tag
 public class TabLinkMonsters extends ElementsScrollspropsMod.ModElement {
 	public TabLinkMonsters(ElementsScrollspropsMod instance) {
-		super(instance, 160);
+		super(instance, 163);
 	}
 
 	@Override

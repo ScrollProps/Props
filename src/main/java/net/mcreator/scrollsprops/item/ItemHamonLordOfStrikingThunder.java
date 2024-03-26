@@ -20,7 +20,7 @@ public class ItemHamonLordOfStrikingThunder extends ElementsScrollspropsMod.ModE
 	@GameRegistry.ObjectHolder("scrollsprops:hamon_lord_of_striking_thunder")
 	public static final Item block = null;
 	public ItemHamonLordOfStrikingThunder(ElementsScrollspropsMod instance) {
-		super(instance, 39);
+		super(instance, 57);
 	}
 
 	@Override

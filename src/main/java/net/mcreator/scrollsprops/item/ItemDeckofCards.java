@@ -20,7 +20,7 @@ public class ItemDeckofCards extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:deckof_cards")
 	public static final Item block = null;
 	public ItemDeckofCards(ElementsScrollspropsMod instance) {
-		super(instance, 116);
+		super(instance, 149);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemMillenniumKey extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_key")
 	public static final Item block = null;
 	public ItemMillenniumKey(ElementsScrollspropsMod instance) {
-		super(instance, 81);
+		super(instance, 27);
 	}
 
 	@Override

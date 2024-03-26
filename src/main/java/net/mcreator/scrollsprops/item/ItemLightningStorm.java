@@ -20,7 +20,7 @@ public class ItemLightningStorm extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:lightning_storm")
 	public static final Item block = null;
 	public ItemLightningStorm(ElementsScrollspropsMod instance) {
-		super(instance, 133);
+		super(instance, 112);
 	}
 
 	@Override

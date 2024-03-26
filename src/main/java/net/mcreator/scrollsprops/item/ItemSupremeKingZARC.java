@@ -20,7 +20,7 @@ public class ItemSupremeKingZARC extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:supreme_king_zarc")
 	public static final Item block = null;
 	public ItemSupremeKingZARC(ElementsScrollspropsMod instance) {
-		super(instance, 128);
+		super(instance, 107);
 	}
 
 	@Override

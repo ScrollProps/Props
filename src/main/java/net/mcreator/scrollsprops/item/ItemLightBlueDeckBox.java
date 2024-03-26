@@ -20,7 +20,7 @@ public class ItemLightBlueDeckBox extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:light_blue_deck_box")
 	public static final Item block = null;
 	public ItemLightBlueDeckBox(ElementsScrollspropsMod instance) {
-		super(instance, 98);
+		super(instance, 11);
 	}
 
 	@Override

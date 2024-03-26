@@ -20,7 +20,7 @@ public class ItemFireWallDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:fire_wall_dragon")
 	public static final Item block = null;
 	public ItemFireWallDragon(ElementsScrollspropsMod instance) {
-		super(instance, 162);
+		super(instance, 153);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemWretchedGhostOftheAttic extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:wretched_ghost_ofthe_attic")
 	public static final Item block = null;
 	public ItemWretchedGhostOftheAttic(ElementsScrollspropsMod instance) {
-		super(instance, 54);
+		super(instance, 72);
 	}
 
 	@Override

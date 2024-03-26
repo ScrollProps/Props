@@ -20,7 +20,7 @@ public class ItemExtraPendulum extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:extra_pendulum")
 	public static final Item block = null;
 	public ItemExtraPendulum(ElementsScrollspropsMod instance) {
-		super(instance, 145);
+		super(instance, 123);
 	}
 
 	@Override

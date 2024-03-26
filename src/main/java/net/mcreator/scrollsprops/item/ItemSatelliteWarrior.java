@@ -20,7 +20,7 @@ public class ItemSatelliteWarrior extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:satellite_warrior")
 	public static final Item block = null;
 	public ItemSatelliteWarrior(ElementsScrollspropsMod instance) {
-		super(instance, 152);
+		super(instance, 130);
 	}
 
 	@Override

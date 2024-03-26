@@ -1,6 +1,6 @@
 {
   "parent": "scrollsprops:custom/magenta_deck_box",
   "textures": {
-    "1": "scrollsprops:blocks/purple_deck_box"
+    "1": "scrollsprops:blocks/magenta_deck_box"
   }
 }

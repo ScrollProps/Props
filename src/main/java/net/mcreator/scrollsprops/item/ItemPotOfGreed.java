@@ -20,7 +20,7 @@ public class ItemPotOfGreed extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:pot_of_greed")
 	public static final Item block = null;
 	public ItemPotOfGreed(ElementsScrollspropsMod instance) {
-		super(instance, 68);
+		super(instance, 82);
 	}
 
 	@Override

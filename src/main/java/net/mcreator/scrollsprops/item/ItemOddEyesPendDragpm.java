@@ -20,7 +20,7 @@ public class ItemOddEyesPendDragpm extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:odd_eyes_pend_dragpm")
 	public static final Item block = null;
 	public ItemOddEyesPendDragpm(ElementsScrollspropsMod instance) {
-		super(instance, 135);
+		super(instance, 114);
 	}
 
 	@Override

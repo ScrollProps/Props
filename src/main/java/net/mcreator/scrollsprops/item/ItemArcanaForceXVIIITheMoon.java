@@ -20,7 +20,7 @@ public class ItemArcanaForceXVIIITheMoon extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_xviii_the_moon")
 	public static final Item block = null;
 	public ItemArcanaForceXVIIITheMoon(ElementsScrollspropsMod instance) {
-		super(instance, 123);
+		super(instance, 102);
 	}
 
 	@Override

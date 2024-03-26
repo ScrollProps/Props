@@ -20,7 +20,7 @@ public class ItemHeroicChampionClaivesolish extends ElementsScrollspropsMod.ModE
 	@GameRegistry.ObjectHolder("scrollsprops:heroic_champion_claivesolish")
 	public static final Item block = null;
 	public ItemHeroicChampionClaivesolish(ElementsScrollspropsMod instance) {
-		super(instance, 156);
+		super(instance, 134);
 	}
 
 	@Override

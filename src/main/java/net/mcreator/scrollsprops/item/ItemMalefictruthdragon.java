@@ -20,7 +20,7 @@ public class ItemMalefictruthdragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:malefictruthdragon")
 	public static final Item block = null;
 	public ItemMalefictruthdragon(ElementsScrollspropsMod instance) {
-		super(instance, 23);
+		super(instance, 41);
 	}
 
 	@Override

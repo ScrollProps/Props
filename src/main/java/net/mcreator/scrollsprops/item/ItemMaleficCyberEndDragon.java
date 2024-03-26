@@ -20,7 +20,7 @@ public class ItemMaleficCyberEndDragon extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:malefic_cyber_end_dragon")
 	public static final Item block = null;
 	public ItemMaleficCyberEndDragon(ElementsScrollspropsMod instance) {
-		super(instance, 25);
+		super(instance, 43);
 	}
 
 	@Override

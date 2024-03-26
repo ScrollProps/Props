@@ -20,7 +20,7 @@ public class ItemTerrifyingToddlerOfTorment extends ElementsScrollspropsMod.ModE
 	@GameRegistry.ObjectHolder("scrollsprops:terrifying_toddler_of_torment")
 	public static final Item block = null;
 	public ItemTerrifyingToddlerOfTorment(ElementsScrollspropsMod instance) {
-		super(instance, 50);
+		super(instance, 68);
 	}
 
 	@Override

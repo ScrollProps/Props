@@ -20,7 +20,7 @@ public class ItemUltimateConductorTyranno extends ElementsScrollspropsMod.ModEle
 	@GameRegistry.ObjectHolder("scrollsprops:ultimate_conductor_tyranno")
 	public static final Item block = null;
 	public ItemUltimateConductorTyranno(ElementsScrollspropsMod instance) {
-		super(instance, 55);
+		super(instance, 73);
 	}
 
 	@Override

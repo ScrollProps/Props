@@ -20,7 +20,7 @@ public class ItemLifeStreamDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:life_stream_dragon")
 	public static final Item block = null;
 	public ItemLifeStreamDragon(ElementsScrollspropsMod instance) {
-		super(instance, 32);
+		super(instance, 50);
 	}
 
 	@Override

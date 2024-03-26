@@ -20,7 +20,7 @@ public class ItemGladiatorBeastDomitianus extends ElementsScrollspropsMod.ModEle
 	@GameRegistry.ObjectHolder("scrollsprops:gladiator_beast_domitianus")
 	public static final Item block = null;
 	public ItemGladiatorBeastDomitianus(ElementsScrollspropsMod instance) {
-		super(instance, 138);
+		super(instance, 116);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemArcanaForceXIVTemprance extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_xiv_temprance")
 	public static final Item block = null;
 	public ItemArcanaForceXIVTemprance(ElementsScrollspropsMod instance) {
-		super(instance, 120);
+		super(instance, 99);
 	}
 
 	@Override

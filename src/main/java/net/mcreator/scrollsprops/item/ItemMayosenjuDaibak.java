@@ -20,7 +20,7 @@ public class ItemMayosenjuDaibak extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:mayosenju_daibak")
 	public static final Item block = null;
 	public ItemMayosenjuDaibak(ElementsScrollspropsMod instance) {
-		super(instance, 154);
+		super(instance, 132);
 	}
 
 	@Override

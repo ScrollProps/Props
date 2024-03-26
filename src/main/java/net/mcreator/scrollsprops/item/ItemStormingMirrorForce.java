@@ -20,7 +20,7 @@ public class ItemStormingMirrorForce extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:storming_mirror_force")
 	public static final Item block = null;
 	public ItemStormingMirrorForce(ElementsScrollspropsMod instance) {
-		super(instance, 69);
+		super(instance, 83);
 	}
 
 	@Override

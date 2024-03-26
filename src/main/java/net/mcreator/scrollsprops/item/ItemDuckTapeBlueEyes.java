@@ -24,7 +24,7 @@ public class ItemDuckTapeBlueEyes extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:duck_tape_blue_eyes")
 	public static final Item block = null;
 	public ItemDuckTapeBlueEyes(ElementsScrollspropsMod instance) {
-		super(instance, 4);
+		super(instance, 3);
 	}
 
 	@Override

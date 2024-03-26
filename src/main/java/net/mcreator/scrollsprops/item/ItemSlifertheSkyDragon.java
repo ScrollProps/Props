@@ -20,7 +20,7 @@ public class ItemSlifertheSkyDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:sliferthe_sky_dragon")
 	public static final Item block = null;
 	public ItemSlifertheSkyDragon(ElementsScrollspropsMod instance) {
-		super(instance, 33);
+		super(instance, 51);
 	}
 
 	@Override

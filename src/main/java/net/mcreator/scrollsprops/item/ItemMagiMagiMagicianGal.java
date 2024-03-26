@@ -20,7 +20,7 @@ public class ItemMagiMagiMagicianGal extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:magi_magi_magician_gal")
 	public static final Item block = null;
 	public ItemMagiMagiMagicianGal(ElementsScrollspropsMod instance) {
-		super(instance, 22);
+		super(instance, 40);
 	}
 
 	@Override

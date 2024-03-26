@@ -20,7 +20,7 @@ public class ItemDDDDoomking extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:ddd_doomking")
 	public static final Item block = null;
 	public ItemDDDDoomking(ElementsScrollspropsMod instance) {
-		super(instance, 143);
+		super(instance, 121);
 	}
 
 	@Override

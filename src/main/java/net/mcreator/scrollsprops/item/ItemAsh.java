@@ -20,7 +20,7 @@ public class ItemAsh extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:ash")
 	public static final Item block = null;
 	public ItemAsh(ElementsScrollspropsMod instance) {
-		super(instance, 134);
+		super(instance, 113);
 	}
 
 	@Override

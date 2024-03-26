@@ -20,7 +20,7 @@ public class ItemSpellbookofJudgement extends ElementsScrollspropsMod.ModElement
 	@GameRegistry.ObjectHolder("scrollsprops:spellbookof_judgement")
 	public static final Item block = null;
 	public ItemSpellbookofJudgement(ElementsScrollspropsMod instance) {
-		super(instance, 142);
+		super(instance, 120);
 	}
 
 	@Override

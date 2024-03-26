@@ -20,7 +20,7 @@ public class ItemEndymionTheMastermagician extends ElementsScrollspropsMod.ModEl
 	@GameRegistry.ObjectHolder("scrollsprops:endymion_the_mastermagician")
 	public static final Item block = null;
 	public ItemEndymionTheMastermagician(ElementsScrollspropsMod instance) {
-		super(instance, 113);
+		super(instance, 96);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemSleipnirtheRunickMane extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:sleipnirthe_runick_mane")
 	public static final Item block = null;
 	public ItemSleipnirtheRunickMane(ElementsScrollspropsMod instance) {
-		super(instance, 149);
+		super(instance, 127);
 	}
 
 	@Override

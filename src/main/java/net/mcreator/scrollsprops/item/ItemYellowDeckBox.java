@@ -20,7 +20,7 @@ public class ItemYellowDeckBox extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:yellow_deck_box")
 	public static final Item block = null;
 	public ItemYellowDeckBox(ElementsScrollspropsMod instance) {
-		super(instance, 99);
+		super(instance, 13);
 	}
 
 	@Override

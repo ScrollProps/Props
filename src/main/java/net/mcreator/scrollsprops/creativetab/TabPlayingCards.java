@@ -13,7 +13,7 @@ import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 @ElementsScrollspropsMod.ModElement.Tag
 public class TabPlayingCards extends ElementsScrollspropsMod.ModElement {
 	public TabPlayingCards(ElementsScrollspropsMod instance) {
-		super(instance, 114);
+		super(instance, 162);
 	}
 
 	@Override

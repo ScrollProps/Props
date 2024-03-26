@@ -20,7 +20,7 @@ public class ItemMissusRadiant extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:missus_radiant")
 	public static final Item block = null;
 	public ItemMissusRadiant(ElementsScrollspropsMod instance) {
-		super(instance, 161);
+		super(instance, 152);
 	}
 
 	@Override

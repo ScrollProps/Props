@@ -20,7 +20,7 @@ public class ItemUriaLordofSearingFlames extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:uria_lordof_searing_flames")
 	public static final Item block = null;
 	public ItemUriaLordofSearingFlames(ElementsScrollspropsMod instance) {
-		super(instance, 37);
+		super(instance, 55);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemPolymerization extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:polymerization")
 	public static final Item block = null;
 	public ItemPolymerization(ElementsScrollspropsMod instance) {
-		super(instance, 70);
+		super(instance, 84);
 	}
 
 	@Override

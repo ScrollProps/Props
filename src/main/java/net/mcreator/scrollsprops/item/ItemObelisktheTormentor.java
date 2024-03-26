@@ -20,7 +20,7 @@ public class ItemObelisktheTormentor extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:obeliskthe_tormentor")
 	public static final Item block = null;
 	public ItemObelisktheTormentor(ElementsScrollspropsMod instance) {
-		super(instance, 34);
+		super(instance, 52);
 	}
 
 	@Override

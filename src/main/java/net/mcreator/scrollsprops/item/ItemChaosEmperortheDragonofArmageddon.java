@@ -20,7 +20,7 @@ public class ItemChaosEmperortheDragonofArmageddon extends ElementsScrollspropsM
 	@GameRegistry.ObjectHolder("scrollsprops:chaos_emperorthe_dragonof_armageddon")
 	public static final Item block = null;
 	public ItemChaosEmperortheDragonofArmageddon(ElementsScrollspropsMod instance) {
-		super(instance, 132);
+		super(instance, 111);
 	}
 
 	@Override

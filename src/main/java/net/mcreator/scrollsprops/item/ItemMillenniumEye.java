@@ -20,7 +20,7 @@ public class ItemMillenniumEye extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_eye")
 	public static final Item block = null;
 	public ItemMillenniumEye(ElementsScrollspropsMod instance) {
-		super(instance, 75);
+		super(instance, 26);
 	}
 
 	@Override

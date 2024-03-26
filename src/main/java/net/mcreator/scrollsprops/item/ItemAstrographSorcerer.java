@@ -20,7 +20,7 @@ public class ItemAstrographSorcerer extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:astrograph_sorcerer")
 	public static final Item block = null;
 	public ItemAstrographSorcerer(ElementsScrollspropsMod instance) {
-		super(instance, 150);
+		super(instance, 128);
 	}
 
 	@Override

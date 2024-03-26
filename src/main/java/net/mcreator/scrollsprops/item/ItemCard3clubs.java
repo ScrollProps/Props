@@ -20,7 +20,7 @@ public class ItemCard3clubs extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:card_3clubs")
 	public static final Item block = null;
 	public ItemCard3clubs(ElementsScrollspropsMod instance) {
-		super(instance, 117);
+		super(instance, 150);
 	}
 
 	@Override

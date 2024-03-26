@@ -20,7 +20,7 @@ public class ItemWingedKuribohLV6 extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:winged_kuriboh_lv_6")
 	public static final Item block = null;
 	public ItemWingedKuribohLV6(ElementsScrollspropsMod instance) {
-		super(instance, 110);
+		super(instance, 93);
 	}
 
 	@Override

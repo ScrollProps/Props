@@ -20,7 +20,7 @@ public class ItemChaosDragonLevianeer extends ElementsScrollspropsMod.ModElement
 	@GameRegistry.ObjectHolder("scrollsprops:chaos_dragon_levianeer")
 	public static final Item block = null;
 	public ItemChaosDragonLevianeer(ElementsScrollspropsMod instance) {
-		super(instance, 49);
+		super(instance, 67);
 	}
 
 	@Override

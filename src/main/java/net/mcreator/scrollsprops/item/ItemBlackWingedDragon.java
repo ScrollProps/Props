@@ -20,7 +20,7 @@ public class ItemBlackWingedDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:black_winged_dragon")
 	public static final Item block = null;
 	public ItemBlackWingedDragon(ElementsScrollspropsMod instance) {
-		super(instance, 30);
+		super(instance, 48);
 	}
 
 	@Override

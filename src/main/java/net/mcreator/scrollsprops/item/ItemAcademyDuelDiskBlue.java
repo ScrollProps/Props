@@ -20,7 +20,7 @@ public class ItemAcademyDuelDiskBlue extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:academy_duel_disk_blue")
 	public static final Item block = null;
 	public ItemAcademyDuelDiskBlue(ElementsScrollspropsMod instance) {
-		super(instance, 77);
+		super(instance, 22);
 	}
 
 	@Override

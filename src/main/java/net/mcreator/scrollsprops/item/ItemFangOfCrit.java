@@ -20,7 +20,7 @@ public class ItemFangOfCrit extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:fang_of_crit")
 	public static final Item block = null;
 	public ItemFangOfCrit(ElementsScrollspropsMod instance) {
-		super(instance, 97);
+		super(instance, 90);
 	}
 
 	@Override

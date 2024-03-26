@@ -20,7 +20,7 @@ public class ItemBlackRoseMagicianGirl extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:black_rose_magician_girl")
 	public static final Item block = null;
 	public ItemBlackRoseMagicianGirl(ElementsScrollspropsMod instance) {
-		super(instance, 59);
+		super(instance, 4);
 	}
 
 	@Override

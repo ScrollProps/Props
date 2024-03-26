@@ -20,7 +20,7 @@ public class ItemEvilHeroMoon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:evil_hero_moon")
 	public static final Item block = null;
 	public ItemEvilHeroMoon(ElementsScrollspropsMod instance) {
-		super(instance, 158);
+		super(instance, 5);
 	}
 
 	@Override

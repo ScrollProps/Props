@@ -20,7 +20,7 @@ public class ItemBlankCard1 extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:blank_card_1")
 	public static final Item block = null;
 	public ItemBlankCard1(ElementsScrollspropsMod instance) {
-		super(instance, 16);
+		super(instance, 9);
 	}
 
 	@Override

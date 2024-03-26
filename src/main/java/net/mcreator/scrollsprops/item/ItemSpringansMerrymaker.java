@@ -20,7 +20,7 @@ public class ItemSpringansMerrymaker extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:springans_merrymaker")
 	public static final Item block = null;
 	public ItemSpringansMerrymaker(ElementsScrollspropsMod instance) {
-		super(instance, 64);
+		super(instance, 80);
 	}
 
 	@Override

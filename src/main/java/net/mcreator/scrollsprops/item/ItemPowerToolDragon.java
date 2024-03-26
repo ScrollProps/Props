@@ -20,7 +20,7 @@ public class ItemPowerToolDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:power_tool_dragon")
 	public static final Item block = null;
 	public ItemPowerToolDragon(ElementsScrollspropsMod instance) {
-		super(instance, 31);
+		super(instance, 49);
 	}
 
 	@Override

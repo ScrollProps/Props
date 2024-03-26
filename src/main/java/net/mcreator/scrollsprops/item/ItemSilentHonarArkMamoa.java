@@ -24,7 +24,7 @@ public class ItemSilentHonarArkMamoa extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:silent_honar_ark_mamoa")
 	public static final Item block = null;
 	public ItemSilentHonarArkMamoa(ElementsScrollspropsMod instance) {
-		super(instance, 2);
+		super(instance, 1);
 	}
 
 	@Override

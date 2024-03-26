@@ -20,7 +20,7 @@ public class ItemMasterflareHyperion extends ElementsScrollspropsMod.ModElement 
 	@GameRegistry.ObjectHolder("scrollsprops:masterflare_hyperion")
 	public static final Item block = null;
 	public ItemMasterflareHyperion(ElementsScrollspropsMod instance) {
-		super(instance, 146);
+		super(instance, 124);
 	}
 
 	@Override

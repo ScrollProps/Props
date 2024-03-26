@@ -20,7 +20,7 @@ public class ItemShootingStarDragon extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:shooting_star_dragon")
 	public static final Item block = null;
 	public ItemShootingStarDragon(ElementsScrollspropsMod instance) {
-		super(instance, 137);
+		super(instance, 115);
 	}
 
 	@Override

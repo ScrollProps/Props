@@ -20,7 +20,7 @@ public class ItemRedDeckBox extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:red_deck_box")
 	public static final Item block = null;
 	public ItemRedDeckBox(ElementsScrollspropsMod instance) {
-		super(instance, 101);
+		super(instance, 14);
 	}
 
 	@Override

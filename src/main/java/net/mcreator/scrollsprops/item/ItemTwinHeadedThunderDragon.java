@@ -20,7 +20,7 @@ public class ItemTwinHeadedThunderDragon extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:twin_headed_thunder_dragon")
 	public static final Item block = null;
 	public ItemTwinHeadedThunderDragon(ElementsScrollspropsMod instance) {
-		super(instance, 45);
+		super(instance, 63);
 	}
 
 	@Override

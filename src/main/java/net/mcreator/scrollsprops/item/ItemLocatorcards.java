@@ -20,7 +20,7 @@ public class ItemLocatorcards extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:locatorcards")
 	public static final Item block = null;
 	public ItemLocatorcards(ElementsScrollspropsMod instance) {
-		super(instance, 21);
+		super(instance, 15);
 	}
 
 	@Override

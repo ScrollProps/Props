@@ -20,7 +20,7 @@ public class ItemPack2 extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:pack_2")
 	public static final Item block = null;
 	public ItemPack2(ElementsScrollspropsMod instance) {
-		super(instance, 19);
+		super(instance, 18);
 	}
 
 	@Override

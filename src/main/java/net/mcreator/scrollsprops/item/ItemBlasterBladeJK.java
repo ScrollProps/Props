@@ -24,7 +24,7 @@ public class ItemBlasterBladeJK extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:blaster_blade_jk")
 	public static final Item block = null;
 	public ItemBlasterBladeJK(ElementsScrollspropsMod instance) {
-		super(instance, 3);
+		super(instance, 2);
 	}
 
 	@Override

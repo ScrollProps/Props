@@ -20,7 +20,7 @@ public class ItemTheFirstDarklord extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:the_first_darklord")
 	public static final Item block = null;
 	public ItemTheFirstDarklord(ElementsScrollspropsMod instance) {
-		super(instance, 129);
+		super(instance, 108);
 	}
 
 	@Override

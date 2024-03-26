@@ -20,7 +20,7 @@ public class ItemTyrannoInfinity extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:tyranno_infinity")
 	public static final Item block = null;
 	public ItemTyrannoInfinity(ElementsScrollspropsMod instance) {
-		super(instance, 60);
+		super(instance, 77);
 	}
 
 	@Override

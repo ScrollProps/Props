@@ -20,7 +20,7 @@ public class ItemDuelDisk extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:duel_disk")
 	public static final Item block = null;
 	public ItemDuelDisk(ElementsScrollspropsMod instance) {
-		super(instance, 80);
+		super(instance, 25);
 	}
 
 	@Override

@@ -14,7 +14,7 @@ import java.util.Map;
 @ElementsScrollspropsMod.ModElement.Tag
 public class ProcedureAcademyDiskPurpleRightClickedInAir extends ElementsScrollspropsMod.ModElement {
 	public ProcedureAcademyDiskPurpleRightClickedInAir(ElementsScrollspropsMod instance) {
-		super(instance, 107);
+		super(instance, 161);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

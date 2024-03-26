@@ -20,7 +20,7 @@ public class ItemVolofernigestheDarkestDragonDoomrider extends ElementsScrollspr
 	@GameRegistry.ObjectHolder("scrollsprops:volofernigesthe_darkest_dragon_doomrider")
 	public static final Item block = null;
 	public ItemVolofernigestheDarkestDragonDoomrider(ElementsScrollspropsMod instance) {
-		super(instance, 139);
+		super(instance, 117);
 	}
 
 	@Override

@@ -6,7 +6,7 @@
     {
       "name": "JokeStuff",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -16,7 +16,7 @@
     {
       "name": "SilentHonarArkMamoa",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -26,7 +26,7 @@
     {
       "name": "BlasterBladeJK",
       "type": "item",
-      "sortid": 3,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -36,7 +36,7 @@
     {
       "name": "DuckTapeBlueEyes",
       "type": "item",
-      "sortid": 4,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -46,7 +46,7 @@
     {
       "name": "Assets",
       "type": "tab",
-      "sortid": 5,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -56,7 +56,7 @@
     {
       "name": "DeckBOx",
       "type": "gui",
-      "sortid": 6,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -67,7 +67,7 @@
     {
       "name": "DeckboxI",
       "type": "item",
-      "sortid": 7,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -77,7 +77,7 @@
     {
       "name": "DarkMagicianGirl",
       "type": "item",
-      "sortid": 8,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -87,7 +87,7 @@
     {
       "name": "Cards",
       "type": "tab",
-      "sortid": 9,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -97,7 +97,7 @@
     {
       "name": "Test",
       "type": "musicdisc",
-      "sortid": 10,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -107,7 +107,7 @@
     {
       "name": "KiwiMagicianGirl",
       "type": "item",
-      "sortid": 11,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -117,7 +117,7 @@
     {
       "name": "LemonMagicianGirl",
       "type": "item",
-      "sortid": 12,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -127,7 +127,7 @@
     {
       "name": "ChocolateMagicianGirl",
       "type": "item",
-      "sortid": 13,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -137,7 +137,7 @@
     {
       "name": "BerryMagicianGirl",
       "type": "item",
-      "sortid": 14,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -147,7 +147,7 @@
     {
       "name": "AppleMagicianGirl",
       "type": "item",
-      "sortid": 15,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "BlankCard1",
       "type": "item",
-      "sortid": 16,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -167,7 +167,7 @@
     {
       "name": "BlankCard2",
       "type": "item",
-      "sortid": 17,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -177,7 +177,7 @@
     {
       "name": "Pack1",
       "type": "item",
-      "sortid": 18,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -187,7 +187,7 @@
     {
       "name": "Pack2",
       "type": "item",
-      "sortid": 19,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -197,7 +197,7 @@
     {
       "name": "Pack3",
       "type": "item",
-      "sortid": 20,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -207,7 +207,7 @@
     {
       "name": "Locatorcards",
       "type": "item",
-      "sortid": 21,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -217,7 +217,7 @@
     {
       "name": "MagiMagiMagicianGal",
       "type": "item",
-      "sortid": 22,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -227,7 +227,7 @@
     {
       "name": "Malefictruthdragon",
       "type": "item",
-      "sortid": 23,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -237,7 +237,7 @@
     {
       "name": "MaleficStardustDragon",
       "type": "item",
-      "sortid": 24,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -247,7 +247,7 @@
     {
       "name": "MaleficCyberEndDragon",
       "type": "item",
-      "sortid": 25,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -257,7 +257,7 @@
     {
       "name": "RedDragonArchfiend",
       "type": "item",
-      "sortid": 26,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -267,7 +267,7 @@
     {
       "name": "StardustDragon",
       "type": "item",
-      "sortid": 27,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -277,7 +277,7 @@
     {
       "name": "BlackRoseDragon",
       "type": "item",
-      "sortid": 28,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -287,7 +287,7 @@
     {
       "name": "AncientFairyDragon",
       "type": "item",
-      "sortid": 29,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -297,7 +297,7 @@
     {
       "name": "BlackWingedDragon",
       "type": "item",
-      "sortid": 30,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -307,7 +307,7 @@
     {
       "name": "PowerToolDragon",
       "type": "item",
-      "sortid": 31,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -317,7 +317,7 @@
     {
       "name": "LifeStreamDragon",
       "type": "item",
-      "sortid": 32,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -327,7 +327,7 @@
     {
       "name": "SlifertheSkyDragon",
       "type": "item",
-      "sortid": 33,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -337,7 +337,7 @@
     {
       "name": "ObelisktheTormentor",
       "type": "item",
-      "sortid": 34,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -347,7 +347,7 @@
     {
       "name": "TheWingedDragonofRa1",
       "type": "item",
-      "sortid": 35,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -357,7 +357,7 @@
     {
       "name": "TheWingedDragonofRa",
       "type": "item",
-      "sortid": 36,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -367,7 +367,7 @@
     {
       "name": "UriaLordofSearingFlames",
       "type": "item",
-      "sortid": 37,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -377,7 +377,7 @@
     {
       "name": "RavielLordofPhantasms",
       "type": "item",
-      "sortid": 38,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -387,7 +387,7 @@
     {
       "name": "HamonLordOfStrikingThunder",
       "type": "item",
-      "sortid": 39,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -397,7 +397,7 @@
     {
       "name": "RedEyesBlackDragon",
       "type": "item",
-      "sortid": 40,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -407,7 +407,7 @@
     {
       "name": "BlueEyesWhiteDragon",
       "type": "item",
-      "sortid": 41,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -417,7 +417,7 @@
     {
       "name": "ThunderDragon",
       "type": "item",
-      "sortid": 42,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -427,7 +427,7 @@
     {
       "name": "ThunderDragonduo",
       "type": "item",
-      "sortid": 43,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -437,7 +437,7 @@
     {
       "name": "ThunderDragonlord",
       "type": "item",
-      "sortid": 44,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -447,7 +447,7 @@
     {
       "name": "TwinHeadedThunderDragon",
       "type": "item",
-      "sortid": 45,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -457,7 +457,7 @@
     {
       "name": "ThunderDragonTitan",
       "type": "item",
-      "sortid": 46,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -467,7 +467,7 @@
     {
       "name": "ThunderDragonColossus",
       "type": "item",
-      "sortid": 47,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -477,7 +477,7 @@
     {
       "name": "ChaosEmporerDragonEnvoyoftheEnd",
       "type": "item",
-      "sortid": 48,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -487,7 +487,7 @@
     {
       "name": "ChaosDragonLevianeer",
       "type": "item",
-      "sortid": 49,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -497,7 +497,7 @@
     {
       "name": "TerrifyingToddlerOfTorment",
       "type": "item",
-      "sortid": 50,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -507,7 +507,7 @@
     {
       "name": "FiveHeadedDragon",
       "type": "item",
-      "sortid": 51,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -517,7 +517,7 @@
     {
       "name": "GiganticChampionSargas",
       "type": "item",
-      "sortid": 52,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -527,7 +527,7 @@
     {
       "name": "LunalightBlackSheep",
       "type": "item",
-      "sortid": 53,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -537,7 +537,7 @@
     {
       "name": "WretchedGhostOftheAttic",
       "type": "item",
-      "sortid": 54,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -547,7 +547,7 @@
     {
       "name": "UltimateConductorTyranno",
       "type": "item",
-      "sortid": 55,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -557,7 +557,7 @@
     {
       "name": "JudgmentDragon",
       "type": "item",
-      "sortid": 56,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -567,7 +567,7 @@
     {
       "name": "PunishmentDragon",
       "type": "item",
-      "sortid": 57,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -577,7 +577,7 @@
     {
       "name": "JudgmenttheDragonofHeaven",
       "type": "item",
-      "sortid": 58,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -587,7 +587,7 @@
     {
       "name": "BlackRoseMagicianGirl",
       "type": "item",
-      "sortid": 59,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -597,7 +597,7 @@
     {
       "name": "TyrannoInfinity",
       "type": "item",
-      "sortid": 60,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -607,7 +607,7 @@
     {
       "name": "EvilswarmOuroboros",
       "type": "item",
-      "sortid": 61,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -617,7 +617,7 @@
     {
       "name": "NumberCards",
       "type": "tab",
-      "sortid": 62,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -627,7 +627,7 @@
     {
       "name": "SpringansShipExblowrer",
       "type": "item",
-      "sortid": 63,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -637,7 +637,7 @@
     {
       "name": "SpringansMerrymaker",
       "type": "item",
-      "sortid": 64,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -647,7 +647,7 @@
     {
       "name": "MelffyMommy",
       "type": "item",
-      "sortid": 65,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -657,7 +657,7 @@
     {
       "name": "Number27",
       "type": "item",
-      "sortid": 66,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -667,7 +667,7 @@
     {
       "name": "Number81",
       "type": "item",
-      "sortid": 67,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -677,7 +677,7 @@
     {
       "name": "PotOfGreed",
       "type": "item",
-      "sortid": 68,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -687,7 +687,7 @@
     {
       "name": "StormingMirrorForce",
       "type": "item",
-      "sortid": 69,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -697,7 +697,7 @@
     {
       "name": "Polymerization",
       "type": "item",
-      "sortid": 70,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -707,7 +707,7 @@
     {
       "name": "TwinTwisters",
       "type": "item",
-      "sortid": 71,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -717,7 +717,7 @@
     {
       "name": "ScrapIronScarecrow",
       "type": "item",
-      "sortid": 72,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -727,7 +727,7 @@
     {
       "name": "GoldSarcophagus",
       "type": "item",
-      "sortid": 73,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -737,7 +737,7 @@
     {
       "name": "BurialFromADifferentDimension",
       "type": "item",
-      "sortid": 74,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -747,7 +747,7 @@
     {
       "name": "MillenniumEye",
       "type": "item",
-      "sortid": 75,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -757,7 +757,7 @@
     {
       "name": "AcademyDuelDisk",
       "type": "item",
-      "sortid": 76,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -767,7 +767,7 @@
     {
       "name": "AcademyDuelDiskBlue",
       "type": "item",
-      "sortid": 77,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -777,7 +777,7 @@
     {
       "name": "AcademyDuelDiskRed",
       "type": "item",
-      "sortid": 78,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -787,7 +787,7 @@
     {
       "name": "AcademyDuelDiskYellow",
       "type": "item",
-      "sortid": 79,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -797,7 +797,7 @@
     {
       "name": "DuelDisk",
       "type": "item",
-      "sortid": 80,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -807,7 +807,7 @@
     {
       "name": "MillenniumKey",
       "type": "item",
-      "sortid": 81,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -817,7 +817,7 @@
     {
       "name": "MillenniumNecklace",
       "type": "item",
-      "sortid": 82,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -827,7 +827,7 @@
     {
       "name": "MillenniumPuzzle",
       "type": "item",
-      "sortid": 83,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -837,7 +837,7 @@
     {
       "name": "MillenniumRing",
       "type": "item",
-      "sortid": 84,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -847,7 +847,7 @@
     {
       "name": "MillenniumRod",
       "type": "item",
-      "sortid": 85,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -857,7 +857,7 @@
     {
       "name": "MillenniumScale",
       "type": "item",
-      "sortid": 86,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -867,7 +867,7 @@
     {
       "name": "NumberC101",
       "type": "item",
-      "sortid": 87,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -877,7 +877,7 @@
     {
       "name": "NumberC103",
       "type": "item",
-      "sortid": 88,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -887,7 +887,7 @@
     {
       "name": "Number85",
       "type": "item",
-      "sortid": 89,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -897,7 +897,7 @@
     {
       "name": "Number101",
       "type": "item",
-      "sortid": 90,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -907,7 +907,7 @@
     {
       "name": "NumberC104",
       "type": "item",
-      "sortid": 91,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -917,7 +917,7 @@
     {
       "name": "Number38",
       "type": "item",
-      "sortid": 92,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -927,7 +927,7 @@
     {
       "name": "Number87",
       "type": "item",
-      "sortid": 93,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -937,7 +937,7 @@
     {
       "name": "Number24",
       "type": "item",
-      "sortid": 94,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -947,7 +947,7 @@
     {
       "name": "Number103",
       "type": "item",
-      "sortid": 95,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -957,7 +957,7 @@
     {
       "name": "ChangeOfheart",
       "type": "item",
-      "sortid": 96,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -967,7 +967,7 @@
     {
       "name": "FangOfCrit",
       "type": "item",
-      "sortid": 97,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -977,7 +977,7 @@
     {
       "name": "LightBlueDeckBox",
       "type": "item",
-      "sortid": 98,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -987,7 +987,7 @@
     {
       "name": "YellowDeckBox",
       "type": "item",
-      "sortid": 99,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -997,7 +997,7 @@
     {
       "name": "Magentadeckbox",
       "type": "item",
-      "sortid": 100,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1007,7 +1007,7 @@
     {
       "name": "RedDeckBox",
       "type": "item",
-      "sortid": 101,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1017,7 +1017,7 @@
     {
       "name": "PurpleDeckBox",
       "type": "item",
-      "sortid": 102,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1027,7 +1027,7 @@
     {
       "name": "TheClawOfHermos",
       "type": "item",
-      "sortid": 103,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1037,7 +1037,7 @@
     {
       "name": "TheEyeOfTimaeus",
       "type": "item",
-      "sortid": 104,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1047,7 +1047,7 @@
     {
       "name": "AcademyDiskPurple",
       "type": "item",
-      "sortid": 105,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1057,7 +1057,7 @@
     {
       "name": "MaskRightClickedInAir",
       "type": "procedure",
-      "sortid": 106,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1074,7 +1074,7 @@
     {
       "name": "Mask",
       "type": "item",
-      "sortid": 106,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1084,7 +1084,7 @@
     {
       "name": "AcademyDiskPurpleRightClickedInAir",
       "type": "procedure",
-      "sortid": 107,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1101,7 +1101,7 @@
     {
       "name": "Pack4",
       "type": "item",
-      "sortid": 108,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1111,7 +1111,7 @@
     {
       "name": "DiceWhite",
       "type": "item",
-      "sortid": 109,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1121,7 +1121,7 @@
     {
       "name": "WingedKuribohLV6",
       "type": "item",
-      "sortid": 110,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1131,7 +1131,7 @@
     {
       "name": "EvilHeroMaliciousBane",
       "type": "item",
-      "sortid": 111,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1141,7 +1141,7 @@
     {
       "name": "ElementalHeroFlameWingman",
       "type": "item",
-      "sortid": 112,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1151,7 +1151,7 @@
     {
       "name": "EndymionTheMastermagician",
       "type": "item",
-      "sortid": 113,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1161,7 +1161,7 @@
     {
       "name": "PlayingCards",
       "type": "tab",
-      "sortid": 114,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1171,7 +1171,7 @@
     {
       "name": "Card2Clubs",
       "type": "item",
-      "sortid": 115,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1181,7 +1181,7 @@
     {
       "name": "DeckofCards",
       "type": "item",
-      "sortid": 116,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1191,7 +1191,7 @@
     {
       "name": "Card3clubs",
       "type": "item",
-      "sortid": 117,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1201,7 +1201,7 @@
     {
       "name": "ArcanaForce1TheMagician",
       "type": "item",
-      "sortid": 118,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1211,7 +1211,7 @@
     {
       "name": "ArcanaForceVIITheChariot",
       "type": "item",
-      "sortid": 119,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1221,7 +1221,7 @@
     {
       "name": "ArcanaForceXIVTemprance",
       "type": "item",
-      "sortid": 120,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1231,7 +1231,7 @@
     {
       "name": "ArcanaForceIVTheEmperor",
       "type": "item",
-      "sortid": 121,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1241,7 +1241,7 @@
     {
       "name": "ArcanaForce0TheFool",
       "type": "item",
-      "sortid": 122,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1251,7 +1251,7 @@
     {
       "name": "ArcanaForceXVIIITheMoon",
       "type": "item",
-      "sortid": 123,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1261,7 +1261,7 @@
     {
       "name": "ArcanaForceVITheLovers",
       "type": "item",
-      "sortid": 124,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1271,7 +1271,7 @@
     {
       "name": "ArcanaForceVIIITheStrength",
       "type": "item",
-      "sortid": 125,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1281,7 +1281,7 @@
     {
       "name": "ArcanaForceXIIITheHangman",
       "type": "item",
-      "sortid": 126,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1291,7 +1291,7 @@
     {
       "name": "ArcanaForceXVTheFiend",
       "type": "item",
-      "sortid": 127,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1301,7 +1301,7 @@
     {
       "name": "SupremeKingZARC",
       "type": "item",
-      "sortid": 128,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1311,7 +1311,7 @@
     {
       "name": "TheFirstDarklord",
       "type": "item",
-      "sortid": 129,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1321,7 +1321,7 @@
     {
       "name": "GuardianChimera",
       "type": "item",
-      "sortid": 130,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1331,7 +1331,7 @@
     {
       "name": "GateGuardiansCombined",
       "type": "item",
-      "sortid": 131,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1341,7 +1341,7 @@
     {
       "name": "ChaosEmperortheDragonofArmageddon",
       "type": "item",
-      "sortid": 132,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1351,7 +1351,7 @@
     {
       "name": "LightningStorm",
       "type": "item",
-      "sortid": 133,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1361,7 +1361,7 @@
     {
       "name": "Ash",
       "type": "item",
-      "sortid": 134,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1371,7 +1371,7 @@
     {
       "name": "OddEyesPendDragpm",
       "type": "item",
-      "sortid": 135,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1381,7 +1381,7 @@
     {
       "name": "IceDragon",
       "type": "item",
-      "sortid": 136,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1391,7 +1391,7 @@
     {
       "name": "ShootingStarDragon",
       "type": "item",
-      "sortid": 137,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1401,7 +1401,7 @@
     {
       "name": "GladiatorBeastDomitianus",
       "type": "item",
-      "sortid": 138,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1411,7 +1411,7 @@
     {
       "name": "VolofernigestheDarkestDragonDoomrider",
       "type": "item",
-      "sortid": 139,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1421,7 +1421,7 @@
     {
       "name": "ShootingMajesticStarDragon",
       "type": "item",
-      "sortid": 140,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1431,7 +1431,7 @@
     {
       "name": "GrozaTyrantofThunder",
       "type": "item",
-      "sortid": 141,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1441,7 +1441,7 @@
     {
       "name": "SpellbookofJudgement",
       "type": "item",
-      "sortid": 142,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1451,7 +1451,7 @@
     {
       "name": "DDDDoomking",
       "type": "item",
-      "sortid": 143,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1461,7 +1461,7 @@
     {
       "name": "MythicalBeastMasterCerberus",
       "type": "item",
-      "sortid": 144,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1471,7 +1471,7 @@
     {
       "name": "ExtraPendulum",
       "type": "item",
-      "sortid": 145,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1481,7 +1481,7 @@
     {
       "name": "MasterflareHyperion",
       "type": "item",
-      "sortid": 146,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1491,7 +1491,7 @@
     {
       "name": "TheCrimsonDragon",
       "type": "item",
-      "sortid": 147,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1501,7 +1501,7 @@
     {
       "name": "Titanocider",
       "type": "item",
-      "sortid": 148,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1511,7 +1511,7 @@
     {
       "name": "SleipnirtheRunickMane",
       "type": "item",
-      "sortid": 149,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1521,7 +1521,7 @@
     {
       "name": "AstrographSorcerer",
       "type": "item",
-      "sortid": 150,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1531,7 +1531,7 @@
     {
       "name": "MonsterReborn",
       "type": "item",
-      "sortid": 151,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1541,7 +1541,7 @@
     {
       "name": "SatelliteWarrior",
       "type": "item",
-      "sortid": 152,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1551,7 +1551,7 @@
     {
       "name": "BaronessdeFleur",
       "type": "item",
-      "sortid": 153,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1561,7 +1561,7 @@
     {
       "name": "MayosenjuDaibak",
       "type": "item",
-      "sortid": 154,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1571,7 +1571,7 @@
     {
       "name": "TranscendosaurusGlaciasaurus",
       "type": "item",
-      "sortid": 155,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1581,7 +1581,7 @@
     {
       "name": "HeroicChampionClaivesolish",
       "type": "item",
-      "sortid": 156,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1591,7 +1591,7 @@
     {
       "name": "ThelematechClatis",
       "type": "item",
-      "sortid": 157,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1601,7 +1601,7 @@
     {
       "name": "EvilHeroMoon",
       "type": "item",
-      "sortid": 158,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1611,7 +1611,7 @@
     {
       "name": "TenThousandDragon",
       "type": "item",
-      "sortid": 159,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1621,7 +1621,7 @@
     {
       "name": "LinkMonsters",
       "type": "tab",
-      "sortid": 160,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1631,7 +1631,7 @@
     {
       "name": "MissusRadiant",
       "type": "item",
-      "sortid": 161,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1641,7 +1641,7 @@
     {
       "name": "FireWallDragon",
       "type": "item",
-      "sortid": 162,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1665,13 +1665,13 @@
       "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
       "item.mask.name": "Mask",
       "item.number_c_103.name": "Number C103",
-      "item.number_81.name": "Number 81",
       "item.pack_1.name": "Pack 1",
+      "item.number_81.name": "Number 81",
       "item.tyranno_infinity.name": "Tyranno Infinity",
-      "item.guardian_chimera.name": "Guardian Chimera",
       "item.academy_duel_disk_yellow.name": "Academy Duel Disk Yellow",
-      "subtitles.catsounds": "",
+      "item.guardian_chimera.name": "Guardian Chimera",
       "item.winged_kuriboh_lv_6.name": "Winged Kuriboh LV 6",
+      "subtitles.catsounds": "",
       "item.lunalight_black_sheep.name": "Lunalight Black Sheep",
       "item.thunder_dragonduo.name": "Thunder Dragonduo",
       "item.magi_magi_magician_gal.name": "Magi Magi Magician Gal",

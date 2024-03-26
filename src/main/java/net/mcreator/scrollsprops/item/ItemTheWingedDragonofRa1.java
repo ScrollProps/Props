@@ -20,7 +20,7 @@ public class ItemTheWingedDragonofRa1 extends ElementsScrollspropsMod.ModElement
 	@GameRegistry.ObjectHolder("scrollsprops:the_winged_dragonof_ra_1")
 	public static final Item block = null;
 	public ItemTheWingedDragonofRa1(ElementsScrollspropsMod instance) {
-		super(instance, 35);
+		super(instance, 53);
 	}
 
 	@Override

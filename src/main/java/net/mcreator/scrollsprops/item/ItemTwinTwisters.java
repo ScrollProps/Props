@@ -20,7 +20,7 @@ public class ItemTwinTwisters extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:twin_twisters")
 	public static final Item block = null;
 	public ItemTwinTwisters(ElementsScrollspropsMod instance) {
-		super(instance, 71);
+		super(instance, 85);
 	}
 
 	@Override

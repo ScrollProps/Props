@@ -20,7 +20,7 @@ public class ItemGateGuardiansCombined extends ElementsScrollspropsMod.ModElemen
 	@GameRegistry.ObjectHolder("scrollsprops:gate_guardians_combined")
 	public static final Item block = null;
 	public ItemGateGuardiansCombined(ElementsScrollspropsMod instance) {
-		super(instance, 131);
+		super(instance, 110);
 	}
 
 	@Override

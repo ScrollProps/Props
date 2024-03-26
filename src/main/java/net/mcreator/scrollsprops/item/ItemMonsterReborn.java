@@ -20,7 +20,7 @@ public class ItemMonsterReborn extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:monster_reborn")
 	public static final Item block = null;
 	public ItemMonsterReborn(ElementsScrollspropsMod instance) {
-		super(instance, 151);
+		super(instance, 129);
 	}
 
 	@Override

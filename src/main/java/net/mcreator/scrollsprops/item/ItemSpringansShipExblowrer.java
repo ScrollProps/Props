@@ -20,7 +20,7 @@ public class ItemSpringansShipExblowrer extends ElementsScrollspropsMod.ModEleme
 	@GameRegistry.ObjectHolder("scrollsprops:springans_ship_exblowrer")
 	public static final Item block = null;
 	public ItemSpringansShipExblowrer(ElementsScrollspropsMod instance) {
-		super(instance, 63);
+		super(instance, 79);
 	}
 
 	@Override

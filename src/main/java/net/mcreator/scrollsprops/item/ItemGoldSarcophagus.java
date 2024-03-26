@@ -20,7 +20,7 @@ public class ItemGoldSarcophagus extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:gold_sarcophagus")
 	public static final Item block = null;
 	public ItemGoldSarcophagus(ElementsScrollspropsMod instance) {
-		super(instance, 73);
+		super(instance, 87);
 	}
 
 	@Override

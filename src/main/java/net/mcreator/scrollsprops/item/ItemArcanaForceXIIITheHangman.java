@@ -20,7 +20,7 @@ public class ItemArcanaForceXIIITheHangman extends ElementsScrollspropsMod.ModEl
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_xiii_the_hangman")
 	public static final Item block = null;
 	public ItemArcanaForceXIIITheHangman(ElementsScrollspropsMod instance) {
-		super(instance, 126);
+		super(instance, 105);
 	}
 
 	@Override

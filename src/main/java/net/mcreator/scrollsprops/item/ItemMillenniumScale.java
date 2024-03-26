@@ -20,7 +20,7 @@ public class ItemMillenniumScale extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:millennium_scale")
 	public static final Item block = null;
 	public ItemMillenniumScale(ElementsScrollspropsMod instance) {
-		super(instance, 86);
+		super(instance, 32);
 	}
 
 	@Override

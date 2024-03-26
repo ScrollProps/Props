@@ -20,7 +20,7 @@ public class ItemRedDragonArchfiend extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:red_dragon_archfiend")
 	public static final Item block = null;
 	public ItemRedDragonArchfiend(ElementsScrollspropsMod instance) {
-		super(instance, 26);
+		super(instance, 44);
 	}
 
 	@Override

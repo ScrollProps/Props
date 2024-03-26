@@ -20,7 +20,7 @@ public class ItemTheEyeOfTimaeus extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:the_eye_of_timaeus")
 	public static final Item block = null;
 	public ItemTheEyeOfTimaeus(ElementsScrollspropsMod instance) {
-		super(instance, 104);
+		super(instance, 92);
 	}
 
 	@Override

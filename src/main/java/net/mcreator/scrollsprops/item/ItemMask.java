@@ -28,7 +28,7 @@ public class ItemMask extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:mask")
 	public static final Item block = null;
 	public ItemMask(ElementsScrollspropsMod instance) {
-		super(instance, 106);
+		super(instance, 6);
 	}
 
 	@Override

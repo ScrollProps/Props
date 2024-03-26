@@ -20,7 +20,7 @@ public class ItemGrozaTyrantofThunder extends ElementsScrollspropsMod.ModElement
 	@GameRegistry.ObjectHolder("scrollsprops:groza_tyrantof_thunder")
 	public static final Item block = null;
 	public ItemGrozaTyrantofThunder(ElementsScrollspropsMod instance) {
-		super(instance, 141);
+		super(instance, 119);
 	}
 
 	@Override

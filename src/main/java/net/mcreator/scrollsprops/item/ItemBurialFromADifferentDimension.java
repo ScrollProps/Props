@@ -20,7 +20,7 @@ public class ItemBurialFromADifferentDimension extends ElementsScrollspropsMod.M
 	@GameRegistry.ObjectHolder("scrollsprops:burial_from_a_different_dimension")
 	public static final Item block = null;
 	public ItemBurialFromADifferentDimension(ElementsScrollspropsMod instance) {
-		super(instance, 74);
+		super(instance, 88);
 	}
 
 	@Override

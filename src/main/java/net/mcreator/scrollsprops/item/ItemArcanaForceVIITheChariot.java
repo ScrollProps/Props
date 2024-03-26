@@ -20,7 +20,7 @@ public class ItemArcanaForceVIITheChariot extends ElementsScrollspropsMod.ModEle
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_vii_the_chariot")
 	public static final Item block = null;
 	public ItemArcanaForceVIITheChariot(ElementsScrollspropsMod instance) {
-		super(instance, 119);
+		super(instance, 98);
 	}
 
 	@Override

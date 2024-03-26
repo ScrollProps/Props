@@ -20,7 +20,7 @@ public class ItemScrapIronScarecrow extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:scrap_iron_scarecrow")
 	public static final Item block = null;
 	public ItemScrapIronScarecrow(ElementsScrollspropsMod instance) {
-		super(instance, 72);
+		super(instance, 86);
 	}
 
 	@Override

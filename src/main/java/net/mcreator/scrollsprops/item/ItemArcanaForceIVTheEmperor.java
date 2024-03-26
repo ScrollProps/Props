@@ -20,7 +20,7 @@ public class ItemArcanaForceIVTheEmperor extends ElementsScrollspropsMod.ModElem
 	@GameRegistry.ObjectHolder("scrollsprops:arcana_force_iv_the_emperor")
 	public static final Item block = null;
 	public ItemArcanaForceIVTheEmperor(ElementsScrollspropsMod instance) {
-		super(instance, 121);
+		super(instance, 100);
 	}
 
 	@Override

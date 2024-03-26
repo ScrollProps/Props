@@ -20,7 +20,7 @@ public class ItemDiceWhite extends ElementsScrollspropsMod.ModElement {
 	@GameRegistry.ObjectHolder("scrollsprops:dice_white")
 	public static final Item block = null;
 	public ItemDiceWhite(ElementsScrollspropsMod instance) {
-		super(instance, 109);
+		super(instance, 7);
 	}
 
 	@Override
